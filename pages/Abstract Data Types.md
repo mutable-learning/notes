@@ -1,5 +1,5 @@
 alias:: ADT 
-tags:: Algorithmics, ADT
+tags:: Algorithmics
 
 - Why create ADTs
   background-color:: yellow
