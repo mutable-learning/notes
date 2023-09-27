@@ -412,4 +412,5 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :ui/show-brackets? true}
+ :ui/show-brackets? true
+ :zotero/settings-v2 {"default" {:zotero-data-directory "~/Zotero"}}}
