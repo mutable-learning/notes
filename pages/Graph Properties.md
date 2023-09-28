@@ -1,0 +1,88 @@
+tags:: Algorithmics
+
+- Graphs
+	- model and capture data in real-world problems
+	- use a [[Abstract Data Types/Graph ADT]] to model the problem
+- examples of graph problems
+	- traffic routes such as flights to major cities
+	- GPS routing with or without using toll roads
+	- links to web pages in a web site
+	- a family tree
+	- company staff structures
+	- delivery routes
+- Vertices
+	- are the nodes or objects in a graph
+- Edges
+	- connect vertices together with a line
+	- indicate a relationship between two vertices
+- Graphs can be
+	- undirected
+		- edges have no direction between nodes
+		- travel along the edge can occur in either direction
+	- directed
+		- all edges have a direction indicating the start and end point
+		- each edge has an arrow to indicate the direction allowed
+- Edges can be
+	- unweighted
+		- no value is associated with the edge between two nodes
+	- weighted
+		- edges have a weight value
+		- weights represent a value such as distance, cost, time, difficulty etc
+- Order
+	- is the number of vertices in a graph
+- Size
+	- is the number of edges in a graph
+- Vertex degree (\delta(v) or  degree of vertex)
+	- is the number of edges incident to the vertex (the vertex is the end point)
+- Isolated vertex
+	- is a vertex with no edges (degree zero)
+- Distance
+	- The number of edges in the shortest path between two nodes
+- Eccentricity
+	- the eccentricity of a vertex is the farthest distance from it to any other vertex.
+	- the eccentricity is the maximum distance in the set of distances between the node and the paths to all other nodes
+- Radius
+	- is the minimum eccentricity in the set of all nodes' eccentricities
+- Diameter
+	- is the maximum eccentricity in the set of all nodes' eccentricities
+- Central point and Center of Graph
+	- a vertex having the eccentricity equal to the radius is the central point
+	- the set of all points with the minimum eccentricity is the center of the graph
+- Self loop
+	- is an edge with the same vertex as the start and end point
+- Leaf vertex
+	- is a vertex with a degree of one
+- w is adjacent to v
+	- if the graph contains an edge (v,w)
+- Adjacency Matrix
+	- https://ycpcs.github.io/cs360-spring2019/lectures/images/lecture15/adjmatexample.png
+	- https://i.stack.imgur.com/Ghcvy.png
+	- https://bournetocode.com/projects/AQA_A_Theory/pages/img/Weighted-Graph-Adjacency-Matrix.png
+	-
+- Adjacency List
+	- https://i.ytimg.com/vi/k1wraWzqtvQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDrN_GSlQ-ncrVzgTQQioSdODTZiQ
+- g is a subgraph of G
+	- if all the vertices and edges of g are in G and each edge of g has the same end point as the edge has in G
+- Walk
+	- a sequence of any edges and vertices in a graph
+- Trail
+	- a sequence of any vertices and edges with no repeated edges and starting and ending at different vertices
+- Circuit
+	- a closed trail, starting and ending at the same vertex
+- Path
+	- a sequence of vertices and edges with no repeated edge or vertex
+- Cycle
+	- a closed path, starting and ending at the same vertex
+- Connected Graph
+	- a simple undirected graph
+	- there is a path from any vertex to any other vertex
+- Complete Graph
+	- a simple undirected graph
+	- each pair of distinct vertices is connected by an edge
+- Complete Directed Graph
+	- a directed graph
+	- each pair of distinct vertices is connected by a pair of unique edges (one each direction)
+- Directed Acyclic Graph
+	- is a directed graph with all edges directed from one vertex to another in such a way that a closed loop is never formed
+	- can be topologically ordered by arranging the vertices linearly (top to bottom for example) consistent with all edge directions
+	- a family tree is an example

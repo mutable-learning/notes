@@ -1,3 +1,4 @@
+alias:: Graph
 tags:: Algorithmics
 
 - Graph
@@ -9,6 +10,7 @@ tags:: Algorithmics
 	- can be traversed using the edges to create paths through the graph
 	- can be represented as an adjacency list, where each vertex stores a list of the vertices it is connected to
 	- can be represented as an adjacency matrix, where each element of the matrix indicates whether the two vertices are connected with an edge
+	- [[Graph Properties]] contains all the properties that are used to describe a graph
 - Graph Definition
   background-color:: red
 	- **Name:** $Graph$

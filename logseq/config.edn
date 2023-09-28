@@ -413,4 +413,6 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :ui/show-brackets? true
- :zotero/settings-v2 {"default" {:zotero-data-directory "~/Zotero"}}}
+ :zotero/settings-v2 {"default" {:zotero-data-directory "~/Zotero"}}
+ :graph/settings {:orphan-pages? false
+ :excluded-pages? false}}
