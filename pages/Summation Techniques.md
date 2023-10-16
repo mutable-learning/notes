@@ -1,5 +1,6 @@
-tags:: Algorithmics, Algorithm
+tags:: Algorithmics, Design Patterns
 
+-
 - Use the techniques below to analyse [[Algorithms]] for patterns
 - **Gauss Sum Formula**: All positive integers from $1 \dots n$
 	- $\frac{n(n+1)}{2}$ can also be written as below
