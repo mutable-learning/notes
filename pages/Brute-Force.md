@@ -13,4 +13,4 @@ alias:: Exhaustive Search, Generate and Test
 	- Read
 		- [Brute-force search - Wikipedia](https://en.wikipedia.org/wiki/Brute-force_search)
 	- Watch
-		- b
+		- {{video https://www.youtube.com/watch?v=hrMgfwi75zY&pp=ygUSYnJ1dGUtZm9yY2Ugc2VhcmNo}}
