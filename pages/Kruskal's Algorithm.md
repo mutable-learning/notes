@@ -2,7 +2,7 @@ tags:: Algorithmics, Algorithm
 
 - Used to find the [[MST]] for a weighted, connected graph
 - Requires the edges to be sorted by weight so using a minimum priority queue works well
-- Uses a [[Greedy]] design pattern to find a solution
+- Uses a [[Greedy]] [[Design Pattern]] to find a solution
 - When the set of nodes in the new tree is equal to the set of graph nodes the MST is complete
 - Steps for the algorithm are
 	- Sort all the edges from low weight to high.
