@@ -40,3 +40,11 @@ tags:: Algorithmics, Algorithm
 	  	Return G // If no negative cycles found
 	  End
 	  ```
+-
+- Further Research
+  background-color:: purple
+	- Read
+		- [Bellman–Ford algorithm - Wikipedia](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm)
+	- Watch
+		- {{video https://www.youtube.com/watch?v=obWXjtg0L64&pp=ygUWYmVsbG1hbi1mb3JkIGFsZ29yaXRobQ%3D%3D}}
+		- {{video https://www.youtube.com/watch?v=lyw4FaxrwHg&pp=ygUWYmVsbG1hbi1mb3JkIGFsZ29yaXRobQ%3D%3D}}
