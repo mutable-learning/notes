@@ -18,7 +18,7 @@ tags:: Algorithmics, Algorithm
 	  	For each vertex in G Do
 	  		vertex.distance <-- ∞
 	  		vertex.predecessor <-- undefined
-	  		visited <-- False
+	  		visited <-- false
 	      End For
 	   
 	  	s.distance <-- 0 // the starting node will be the first one chosen below
@@ -30,8 +30,16 @@ tags:: Algorithmics, Algorithm
 	  				u.distance <-- v.distance + v-u.weight
 	  				u.predecessor <-- v
 	              End If
-	  			v.visited <-- True
+	  			v.visited <-- true
 	          End For
 	      End While
 	  End
 	  ```
+-
+- Further Research
+  background-color:: purple
+	- Read
+		- [Dijkstra's algorithm - Wikipedia](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+	- Watch
+		- {{video https://www.youtube.com/watch?v=_lHSawdgXpI&pp=ygUUZGlqa3N0cmEncyBhbGdvcml0aG0%3D}}
+		- {{video https://www.youtube.com/watch?v=pSqmAO-m7Lk&pp=ygUUZGlqa3N0cmEncyBhbGdvcml0aG0%3D}}
