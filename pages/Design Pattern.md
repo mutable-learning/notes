@@ -1,0 +1,1 @@
+- All pages with the tag [[Design Pattern]]
