@@ -1,5 +1,6 @@
-tags:: Algorithmics, Algorithm
+tags:: Algorithmics, Algorithm, Design Pattern
 
+-
 - refers to algorithms that are self-referencing
 - the algorithm calls itself one or more times
 - many iterative algorithms can be implemented as recursive algorithms
