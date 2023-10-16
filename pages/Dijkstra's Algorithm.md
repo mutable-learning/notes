@@ -3,7 +3,7 @@ tags:: Algorithmics, Algorithm
 - finds the shortest path from a start vertex to all other vertices
 - can be used on weighted graphs and directed graphs
 - **will not work if there is a negative weight cycle**
-- uses a greedy approach to select vertices with minimum weights
+- uses a [[Greedy]] design pattern to select vertices with minimum weights
 - same algorithm but can have different approaches, such as a lazy or eager approach
 - can use a [[Priority Queue]] to make implementation easier
 - can be used to find the shortest path between vertices if the previous vertex info is stored as the shortest path is determined
