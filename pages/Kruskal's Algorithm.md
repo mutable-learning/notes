@@ -27,7 +27,6 @@ tags:: Algorithmics, Algorithm
   background-color:: purple
 	- Read
 		- [Kruskal's algorithm - Wikipedia](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm)
-		-
 	- Watch
 		- {{video https://www.youtube.com/watch?v=71UQH7Pr9kU&pp=ygUTa3J1c2thbCdzIGFsZ29yaXRobQ%3D%3D}}
 		- {{video https://www.youtube.com/watch?v=JZBQLXgSGfs&pp=ygUTa3J1c2thbCdzIGFsZ29yaXRobQ%3D%3D}}
