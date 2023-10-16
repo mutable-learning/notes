@@ -1,2 +1,2 @@
-- List of pages tagged with #Algorithms
-	- all defined algorithms needed for the subject
+- All pages tagged with #Algorithms
+	- list of named algorithms needed for the subject
