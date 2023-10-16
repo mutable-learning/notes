@@ -1,4 +1,4 @@
-tags:: Algorithmics, Algorithm, Design Pattern
+tags:: Algorithmics, Design Pattern
 
 -
 - refers to algorithms that are self-referencing
