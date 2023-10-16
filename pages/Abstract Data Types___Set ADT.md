@@ -5,6 +5,7 @@ tags:: Algorithmics
 	- useful for testing membership of collections of objects
 	- contain unique elements only
 	- store elements in no particular order
+	- supports mathematical [[Set Operations]]
 - Set Definition
   background-color:: red
 	- **Name:** $Set$

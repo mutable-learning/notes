@@ -1,5 +1,7 @@
 tags:: Algorithmics
+alias:: Stack
 
+-
 - Stack
   background-color:: yellow
 	- allow for adding and removing of elements to one end only

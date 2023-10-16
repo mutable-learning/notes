@@ -1,5 +1,7 @@
 tags:: Algorithmics
+alias:: Priority Queue
 
+-
 - Priority Queue
   background-color:: yellow
 	- allow for adding elements with a priority

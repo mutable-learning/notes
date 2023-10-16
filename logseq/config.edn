@@ -414,5 +414,5 @@
  :file/name-format :triple-lowbar
  :ui/show-brackets? false
  :zotero/settings-v2 {"default" {:zotero-data-directory "~/Zotero"}}
- :graph/settings {:orphan-pages? false
+ :graph/settings {:orphan-pages? true
  :excluded-pages? false}}

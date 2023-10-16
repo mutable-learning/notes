@@ -1,5 +1,7 @@
 tags:: Algorithmics
+alias:: Queue
 
+-
 - Queue
   background-color:: yellow
 	- allow for adding at one end and removing of elements at the other end
