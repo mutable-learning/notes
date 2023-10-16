@@ -7,6 +7,7 @@ tags:: Algorithmics, Algorithm
 - same algorithm but can have different approaches, such as a lazy or eager approach
 - can use a [[Priority Queue]] to make implementation easier
 - can be used to find the shortest path between vertices if the previous vertex info is stored as the shortest path is determined
+- a common modification is to have the algorithm find the longest path length instead of the shortest
 - Pseudocode
 	- ```
 	  Algorithm Dijsktra(G, s)
