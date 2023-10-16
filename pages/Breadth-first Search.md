@@ -18,14 +18,14 @@ tags:: Algorithmics, Algorithm
 	      Label root as explored
 	      Q.enqueue(root)
 	      While Q is not empty Do
-	          v ← Q.dequeue()
+	          v <-- Q.dequeue()
 	          If v is the goal Then
 	              Return v
 	          End If
 	          For all edges from v to w in G.adjacentEdges(v) Do
 	              If w is not labeled as explored Then
 	                  Label w as explored
-	                  w.parent ← v
+	                  w.parent <-- v
 	                  Q.enqueue(w)
 	              End If
 	          End For

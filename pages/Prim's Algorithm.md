@@ -13,14 +13,14 @@ tags:: Algorithmics, Algorithm
 - Pseudocode
 	- ```
 	  Algorithm prim(G, v0)
-	  	// G is a weighted graph with vertices (V) and edges (E)
+	  	// G is a weighted graph with sets of vertices (V) and edges (E)
 	      // v0 is any random vertice in V
 	      // Output will be an MST
 	      
-	      T ← new empty Graph
+	      T <-- new empty Graph
 	      Add v0 to T
 	      While T.vertices does not equal G.vertices Do
-	      	Choose minimal weighted edge u-v where u is in T and v is not
+	      	Choose minimal weighted G.edge u-v where u is in T and v is not
 	          Add u-v to T
 	      End While
 	  End

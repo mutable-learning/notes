@@ -28,7 +28,7 @@ tags:: Algorithmics, Algorithm
 	      Let S be a stack
 	      S.push(v)
 	      While S is not empty Do
-	          v ← S.pop()
+	          v <-- S.pop()
 	          If v is not labeled as discovered Then
 	              Label v as discovered
 	              For all edges from v to w in G.adjacentEdges(v) Do 

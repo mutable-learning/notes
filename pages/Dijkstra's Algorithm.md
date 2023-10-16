@@ -1,0 +1,37 @@
+tags:: Algorithmics, Algorithm
+
+- finds the shortest path from a start vertex to all other vertices
+- can be used on weighted graphs and directed graphs
+- **will not work if there is a negative weight cycle**
+- uses a greedy approach to select vertices with minimum weights
+- same algorithm but can have different approaches, such as a lazy or eager approach
+- can use a [[Priority Queue]] to make implementation easier
+- can be used to find the shortest path between vertices if the previous vertex info is stored as the shortest path is determined
+- Pseudocode
+	- ```
+	  Algorithm Dijsktra(G, s)
+	  	// Input G is a graph
+	  	// Input s is the starting vertex
+	  	// Output is the graph with each vertex having attributes
+	  	// of distance and predecessor
+	  	
+	  	For each vertex in G Do
+	  		vertex.distance <-- ∞
+	  		vertex.predecessor <-- undefined
+	  		visited <-- False
+	      End For
+	   
+	  	s.distance <-- 0 // the starting node will be the first one chosen below
+	  	
+	  	While (there are vertices with visited = False) Do
+	  		v <-- vertex with smallest distance and visited = False
+	  		For each neighbour of v as u Do
+	  			If (v.distance + v-u.weight) < u.distance Then
+	  				u.distance <-- v.distance + v-u.weight
+	  				u.predecessor <-- v
+	              End If
+	  			v.visited <-- True
+	          End For
+	      End While
+	  End
+	  ```
