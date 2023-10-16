@@ -1,4 +1,4 @@
-tags:: Algorithmics, Design Patterns
+tags:: Algorithmics, Design Pattern
 
 -
 - Use the techniques below to analyse [[Algorithms]] for patterns
@@ -14,6 +14,3 @@ tags:: Algorithmics, Design Patterns
 - **Positive powers of 2 sum formula**: Sum the first $n$ powers of 2
 	- $2^{n}-1$ can also be written as below
 	- $\displaystyle\sum_{i=1}^{n-1}2^i = 2^{n}-1$
-	-
-	-
-	-
