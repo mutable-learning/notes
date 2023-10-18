@@ -17,15 +17,10 @@ tags:: Algorithmics
 - Principles of ADTs
   background-color:: yellow
 	- [[Abstraction]]
-		- omitting or hiding low-level details with a simpler, higher-level idea.
 	- [[Modularity]]
-		- dividing a system into components or modules, each of which can be designed, implemented, tested, reasoned about, and reused separately from the rest of the system.
 	- [[Encapsulation]]
-		- building a wall around a module so that the module is responsible for its own internal behaviour, and bugs in other parts of the system can’t damage its integrity.
 	- [[Information Hiding]]
-		- hiding details of a module’s implementation from the rest of the system, so that those details can be changed later without changing the rest of the system.
 	- [[Separation of Concerns]]
-		- making a feature (or “concern”) the responsibility of a single module, rather than spreading it across multiple modules.
 - Classifying ADTs
   background-color:: yellow
 	- Types, whether built-in or user-defined, can be classified as [[mutable]] or [[immutable]]

@@ -1,0 +1,1 @@
+- hiding details of a module’s implementation from the rest of the system, so that those details can be changed later without changing the rest of the system

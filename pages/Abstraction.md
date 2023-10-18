@@ -1,0 +1,1 @@
+- omitting or hiding low-level details with a simpler, higher-level idea

@@ -1,0 +1,1 @@
+- making a feature (or “concern”) the responsibility of a single module, rather than spreading it across multiple modules.

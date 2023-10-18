@@ -1,0 +1,1 @@
+- building a wall around a module so that the module is responsible for its own internal behaviour, and bugs in other parts of the system can’t damage its integrity

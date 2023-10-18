@@ -1,0 +1,1 @@
+- dividing a system into components or modules, each of which can be designed, implemented, tested, reasoned about, and reused separately from the rest of the system
