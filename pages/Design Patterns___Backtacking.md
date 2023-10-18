@@ -13,9 +13,9 @@ alias:: Backtracking
 		- if the node is not a solution, the algorithm recursively explores all of the node's children
 		- if none of the children are solutions, the algorithm backtracks to the previous node and tries a different child
 	- this process continues until a solution is found or the entire [[tree]] has been explored
-- Backtracking can also be applied to problems
-	- The n-Queens Problem
-	- The knapsack problem
+- Backtracking can also be applied to problems such as
+	- [[n-Queens Problem]]
+	- [[Knapsack Problem]]
 - Advantages
 	- simple and intuitive technique
 	- can be used to solve a wide variety of problems
