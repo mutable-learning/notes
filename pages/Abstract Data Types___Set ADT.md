@@ -1,11 +1,13 @@
 tags:: Algorithmics
+alias:: Set
 
+-
 - Set
   background-color:: yellow
 	- useful for testing membership of collections of objects
 	- contain unique elements only
 	- store elements in no particular order
-	- supports mathematical [[Set Operations]]
+	- supports mathematical [[Abstract Data Types/Set ADT/Set Operations]]
 - Set Definition
   background-color:: red
 	- **Name:** $Set$

@@ -1,5 +1,7 @@
 tags:: Algorithmics
+alias:: Tree
 
+-
 - Trees share many of the same [[Graph Properties]], but also have their own as well
 - Tree
 	- is a connected, undirected acyclic [[Graph]]

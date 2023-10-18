@@ -1,4 +1,4 @@
-tags:: Algorithmics, Design Pattern
+tags:: Algorithmics
 
 -
 - Use the techniques below to analyse [[Algorithms]] for patterns

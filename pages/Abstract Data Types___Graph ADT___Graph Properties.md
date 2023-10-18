@@ -1,8 +1,10 @@
 tags:: Algorithmics
+alias:: Graph Properties
 
+-
 - Graphs
 	- model and capture data in real-world problems
-	- use a [[Abstract Data Types/Graph ADT]] to model the problem
+	- use a [[Graph ADT]] to model the problem
 - examples of graph problems
 	- traffic routes such as flights to major cities
 	- GPS routing with or without using toll roads

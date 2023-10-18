@@ -1,4 +1,4 @@
-tags:: Algorithmics, NP Problems
+tags:: Algorithmics
 alias:: TSP
 
 -

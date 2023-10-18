@@ -1,5 +1,7 @@
-tags:: Algorithmics, Algorithm
+tags:: Algorithmics
+alias:: BFS, Breadth-first Search
 
+-
 - Traversing a tree or graph
 - Start at any node, or the root node (in a tree)
 - Explore all neighbours of a node before moving to their neighbours

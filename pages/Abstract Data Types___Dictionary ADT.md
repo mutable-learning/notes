@@ -1,6 +1,7 @@
-alias:: Associative Array
 tags:: Algorithmics
+alias:: Associative Array, Dictionary
 
+-
 - Dictionary:
   background-color:: yellow
 	- have a key and a value associated with the key

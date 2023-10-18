@@ -1,4 +1,5 @@
-tags:: Algorithmics, Design Pattern
+tags:: Algorithmics
+alias:: Greedy
 
 -
 - an approach that follows the problem-solving [[Heuristic]] of making the locally optimal choice at each stage

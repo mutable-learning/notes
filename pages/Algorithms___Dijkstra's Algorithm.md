@@ -1,5 +1,7 @@
-tags:: Algorithmics, Algorithm
+tags:: Algorithmics
+alias:: Dijkstra's
 
+-
 - finds the shortest path from a start vertex to all other vertices
 - can be used on weighted graphs and directed graphs
 - **will not work if there is a negative weight cycle**

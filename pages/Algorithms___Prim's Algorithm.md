@@ -1,5 +1,7 @@
-tags:: Algorithmics, Algorithm
+tags:: Algorithmics
+alias:: Prim's
 
+-
 - Used to find the [[MST]] for a weighted, connected graph
 - Uses a minimum [[Priority Queue]] to hold the possible edges (with the weight as the priority)
 - Uses a [[Greedy]] [[Design Pattern]] to find a solution

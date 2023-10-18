@@ -1,5 +1,5 @@
 tags:: Algorithmics
-alias:: Curse of Dimensionality
+alias:: Curse of Dimensionality, Combinatorial Explosion
 
 -
 - a disadvantage of using a [[Brute-Force]] approach for real-world problems is that the number of natural candidates (possible combinations) is prohibitively large.

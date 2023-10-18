@@ -1,5 +1,5 @@
-alias:: Graph
 tags:: Algorithmics
+alias:: Graph
 
 - Graph
   background-color:: yellow

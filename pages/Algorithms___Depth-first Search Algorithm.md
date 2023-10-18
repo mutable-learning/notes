@@ -1,5 +1,7 @@
-tags:: Algorithmics, Algorithm
+tags:: Algorithmics
+alias:: DFS, Depth-first Search
 
+-
 - Traversing a tree or graph
 - Start at any node, or the root node (in a tree)
 - Explore as far along a branch as possible until a leaf node is encountered

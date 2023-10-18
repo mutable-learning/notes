@@ -415,4 +415,7 @@
  :ui/show-brackets? false
  :zotero/settings-v2 {"default" {:zotero-data-directory "~/Zotero"}}
  :graph/settings {:orphan-pages? true
- :excluded-pages? false}}
+ :excluded-pages? false}
+ :feature/enable-journals? false
+ :feature/enable-whiteboards? false
+ :default-home {:page "Algorithmics"}}

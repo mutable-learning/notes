@@ -1,5 +1,7 @@
-tags:: Algorithmics, Algorithm
+tags:: Algorithmics
+alias:: Kruskal's
 
+-
 - Used to find the [[MST]] for a weighted, connected graph
 - Requires the edges to be sorted by weight so using a minimum priority queue works well
 - Uses a [[Greedy]] [[Design Pattern]] to find a solution

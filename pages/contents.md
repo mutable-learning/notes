@@ -1,1 +1,7 @@
+- [[Algorithmics]]
+	- [[Pseudocode]]
+	- [[Abstract Data Types]]
+	- [[Design Patterns]]
+	- [[Algorithms]]
+	- [[Problems]]
 -

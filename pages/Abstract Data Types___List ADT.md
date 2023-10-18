@@ -1,5 +1,7 @@
 tags:: Algorithmics
+alias:: List
 
+-
 - List
   background-color:: yellow
 	- are of dynamic size

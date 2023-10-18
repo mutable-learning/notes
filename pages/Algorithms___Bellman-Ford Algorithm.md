@@ -1,8 +1,9 @@
-tags:: Algorithmics, Algorithm
+tags:: Algorithmics
+alias:: Bellman-Ford
 
 - uses a [[Brute-Force]] approach to check all edges for a vertex and build a solution incrementally
 - uses a nested loop process to loop through all the edges (|V|-1) times and update the distances repeatedly
-- slower than [[Dijkstra's Algorithm]] but can be used to find graphs with negative cycles, which can be useful
+- slower than [[Algorithms/Dijkstra's Algorithm]] but can be used to find graphs with negative cycles, which can be useful
 	- it can return a notification if a negative weighted cycle exists in a graph
 	- no shortest path can be produced if there is a negative cycle
 - Pseudocode

@@ -1,5 +1,7 @@
 tags:: Algorithmics
+alias:: Array
 
+-
 - Array
   background-color:: yellow
 	- fixed size - size is defined when the array is created
