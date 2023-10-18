@@ -1,4 +1,4 @@
-alias:: Constructor
+alias:: Constructor, Factory, Generator
 
 -
 - create new objects of the ADT type
