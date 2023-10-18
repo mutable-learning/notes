@@ -14,8 +14,7 @@ alias:: Recursion
 - Further Research
   background-color:: purple
 	- Read
-		-
-		-
+		- [Recursion (computer science) - Wikipedia](https://en.wikipedia.org/wiki/Recursion_(computer_science))
 	- Watch
 		- {{video https://www.youtube.com/watch?v=rf60MejMz3E&pp=ygUUcmVjdXJzaXZlIGFsZ29yaXRobXM%3D}}
 		- {{video https://www.youtube.com/watch?v=KEEKn7Me-ms&pp=ygUUcmVjdXJzaXZlIGFsZ29yaXRobXM%3D}}
