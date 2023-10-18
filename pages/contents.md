@@ -4,4 +4,3 @@
 	- [[Design Patterns]]
 	- [[Algorithms]]
 	- [[Problems]]
--

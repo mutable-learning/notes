@@ -1,37 +1,34 @@
 alias:: ADT 
 tags:: Algorithmics
 
+-
 - Why create ADTs
-  background-color:: yellow
-	- Safe from bugs :  correct today and in the future
-	- Easy to understand : communicating clearly with other programmers and future you
-	- Ready for change : Can accommodate change without rewriting
-- Key Idea of ADTs
-  background-color:: yellow
+	- Safe from bugs
+		- correct today and in the future
+	- Easy to understand
+		- communicating clearly with other programmers and future you
+	- Ready for change
+		- can accommodate change without rewriting
+- Key idea of ADTs
 	- **An [[ADT]] is characterized by the operations you can perform on it**
 	- The operations of the type constitute its [[Abstraction]]. This is the public part, visible to clients who use the type.
 - ADTs help us to
-  background-color:: yellow
 	- separate how we use a data structure in a program from the particular form of the data structure itself
 	- address the problem of clients making assumptions about the type’s internal representation
 - Principles of ADTs
-  background-color:: yellow
 	- [[Abstraction]]
 	- [[Modularity]]
 	- [[Encapsulation]]
 	- [[Information Hiding]]
 	- [[Separation of Concerns]]
 - Classifying ADTs
-  background-color:: yellow
 	- Types, whether built-in or user-defined, can be classified as [[mutable]] or [[immutable]]
 - Classifying ADT Operations
-  background-color:: yellow
 	- [[Creators]]
 	- [[Producers]]
 	- [[Observers]]
 	- [[Mutators]]
-- Designing an abstract type
-  background-color:: yellow
+- Designing an ADT
 	- aim for a few, simple operations
 	- aim for operations to be combined in powerful ways
 	- avoid lots of complex operations.
@@ -44,7 +41,6 @@ tags:: Algorithmics
 	- Representation independent.
 		- Use of an abstract type is independent of its representation (the actual data structure or data fields used to implement it), so that changes in representation have no effect on code outside the abstract type itself
 - Summary
-  background-color:: yellow
 	- Abstract data types are characterised by their operations.
 	- Operations can be classified into creators, producers, observers, and mutators.
 	- An ADT’s specification is its set of operations and their specs.
