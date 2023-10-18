@@ -29,23 +29,12 @@ tags:: Algorithmics
 - Classifying ADTs
   background-color:: yellow
 	- Types, whether built-in or user-defined, can be classified as [[mutable]] or [[immutable]]
-	- [[mutable]] types
-		- can be changed
-			- they provide operations which when executed cause the results of other operations on the same object to give different results
-	- [[immutable]] types
-		- can't be changed
-			- their operations create new objects rather than changing existing ones
 - Classifying ADT Operations
   background-color:: yellow
 	- [[Creators]]
-		- create new objects of the type.
-		- A creator may take values of other types as arguments, but not an object of the type being constructed.
 	- [[Producers]]
-		- create new objects of the type from one or more existing objects of the same type.
 	- [[Observers]]
-		- take objects of the abstract type and return objects of a different type. The size operation of List, for example, returns an integer.
 	- [[Mutators]]
-		- change objects. The add operation of List, for example, mutates a list by adding an element to the end.
 - Designing an abstract type
   background-color:: yellow
 	- aim for a few, simple operations

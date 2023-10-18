@@ -1,0 +1,3 @@
+- [[mutable]] types
+	- can be changed
+		- they provide operations which when executed cause the results of other operations on the same object to give different results

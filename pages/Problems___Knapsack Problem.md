@@ -1,4 +1,4 @@
-tag:: Algorithmics
+tags:: Algorithmics
 alias:: Knapsack Problem
 
 -
