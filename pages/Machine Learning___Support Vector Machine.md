@@ -22,7 +22,7 @@ alias:: SVM, Support Vector Machine
 		- the lower the misclassification errors, the better the accuracy of the SVM
 - Advantages
 	- powerful classifier that can achieve high accuracy
-	- versatile classifier that can be used with both linear and non-linear data using the Kernel Trick
+	- versatile classifier that can be used with both linear and non-linear data using the [[Kernel Trick]]
 	- robust classifier that is not easily affected by noise
 - Disadvantages
 	- can be computationally expensive to train
