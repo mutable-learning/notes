@@ -3,4 +3,5 @@
 	- [[Abstract Data Types]]
 	- [[Design Patterns]]
 	- [[Algorithms]]
+	- [[Machine Learning]]
 	- [[Problems]]

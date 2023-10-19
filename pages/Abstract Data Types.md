@@ -17,6 +17,7 @@ tags:: Algorithmics
 	- address the problem of clients making assumptions about the type’s internal representation
 - Principles of ADTs
 	- [[Abstraction]]
+	  id:: 6514064f-73c7-46ec-8529-33fc6e966e8b
 	- [[Modularity]]
 	- [[Encapsulation]]
 	- [[Information Hiding]]
@@ -42,6 +43,7 @@ tags:: Algorithmics
 		- Use of an abstract type is independent of its representation (the actual data structure or data fields used to implement it), so that changes in representation have no effect on code outside the abstract type itself
 - Summary
 	- Abstract data types are characterised by their operations.
+	  id:: 6514064f-c5ad-4873-85bc-4602ac6f5289
 	- Operations can be classified into creators, producers, observers, and mutators.
 	- An ADT’s specification is its set of operations and their specs.
 	- A good ADT is simple, coherent, adequate, and representation independent.
