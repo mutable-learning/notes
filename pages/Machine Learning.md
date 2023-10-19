@@ -9,7 +9,7 @@ tags:: Algorithmics
 		- [[Unsupervised Learning]]
 		  id:: 6530e3b7-aefc-4b64-80c2-1337dab34c3a
 		- [[Reinforcement Learning]]
-	- usually a model is created, trained on some data and can then be used to make predictions about new, unseen data.
+	- usually a model is created, [[Machine Learning/Training]] is performed and it can then be used to make predictions about new, unseen data.
 		- [[Support Vector Machine]]
 		- [[Neural Network]]
 -
