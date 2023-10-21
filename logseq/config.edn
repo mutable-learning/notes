@@ -414,8 +414,15 @@
  :file/name-format :triple-lowbar
  :ui/show-brackets? false
  :zotero/settings-v2 {"default" {:zotero-data-directory "~/Zotero"}}
+<<<<<<< HEAD
  :graph/settings {:orphan-pages? true
  :excluded-pages? false}
  :feature/enable-journals? false
  :feature/enable-whiteboards? false
  :default-home {:page "Algorithmics"}}
+=======
+ :graph/settings {:orphan-pages? false
+ :excluded-pages? false}
+ :feature/enable-journals? true
+ :feature/enable-flashcards? true}
+>>>>>>> a66f419 ([logseq-plugin-git:commit] 2023-10-21T22:44:39.555Z)
