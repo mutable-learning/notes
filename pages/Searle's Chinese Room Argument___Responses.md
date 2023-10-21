@@ -3,7 +3,6 @@ topic:: [[Searle's Chinese Room Argument]]
 algo:: Unit 4 Outcome 3
 
 -
--
 - plato.sydney.edu.au/archives/spr2004/entries/chinese room/#4
 - There are many responses to the Chinese Room Argument, both for and against. Some of the most common responses are summarized here
 - Arguments for the Chinese Room Argument
