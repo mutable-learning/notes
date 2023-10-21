@@ -1,7 +1,8 @@
 tags:: Algorithmics
-alias:: Graph Coloring, Graph Colouring
+alias:: Graph Coloring
+topic:: Problems
+algo:: Unit 4 Outcome 2
 
--
 -
 - s a combinatorial optimization problem in graph theory that involves
 	- *coloring of the vertices of a graph such that no two adjacent vertices have the same color*

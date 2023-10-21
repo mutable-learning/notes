@@ -1,4 +1,4 @@
-tags:: Algorithmics
+tags:: Algorithmics, Proof
 topic:: Algorithm Correctness
 algo:: Unit 3 Outcome 2
 

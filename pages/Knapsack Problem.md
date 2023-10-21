@@ -1,5 +1,7 @@
 tags:: Algorithmics
-alias:: Knapsack Problem, 0-1 Knapsack Problem
+alias:: 0-1 Knapsack Problem
+topic:: Problems
+algo:: Unit 4 Outcome 2
 
 -
 - *Given a set of items, each with a weight and a value, determine which items to include in the collection so that the total weight is less than or equal to a given limit and the total value is as large as possible.*

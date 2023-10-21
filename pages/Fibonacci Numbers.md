@@ -1,5 +1,6 @@
 tags:: Algorithmics
-alias:: Fibonacci Numbers
+topic:: Problems
+algo:: Unit 4 Outcome 2
 
 -
 - using [[Recursion]] you can find the Fibonacci number by first finding the previous two Fibonacci numbers

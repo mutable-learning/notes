@@ -7,7 +7,7 @@ alias:: Heuristic
 	- it may not be the best solution
 	- it may be an approximate of the best solution
 - heuristic functions may be the only viable option when solving complex optimization problems and are routinely used in real-world applications
-- the [[Problems/Travelling Salesman Problem]] is an example of a problem that can be solved with heuristic functions that find good solutions
+- the [[Travelling Salesman Problem]] is an example of a problem that can be solved with heuristic functions that find good solutions
 	-
 - Further Research
   background-color:: purple

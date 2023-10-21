@@ -1,5 +1,7 @@
 tags:: Algorithmics
 alias:: TSP
+topic:: Problems
+algo:: Unit 4 Outcome 2
 
 -
 - *Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city exactly once and returns to the origin city?*

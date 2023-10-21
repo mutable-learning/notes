@@ -1,5 +1,7 @@
 tags:: Algorithmics
 alias:: Change-making Problem
+topic:: Problems
+algo:: Unit 4 Outcome 2
 
 -
 - asks you to find the minimum number of coins (of certain denominations) that add up to a given amount of money. It is a special case of the integer knapsack problem.
