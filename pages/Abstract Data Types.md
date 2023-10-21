@@ -1,5 +1,7 @@
 alias:: ADT 
 tags:: Algorithmics
+topic:: Abstract Data Types
+algo:: Unit 3 Outcome 1
 
 -
 - Why create ADTs
