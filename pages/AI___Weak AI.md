@@ -3,9 +3,6 @@ topic:: AI
 algo:: Unit 4 Outcome 3
 
 -
-- Narrow AI
-- Strong A.I. vs Weak A.I. vs Narrow A.I. vs General A.I. - The Philosophical Differences Explained - YouTube
-- en.wikipedia.org/wiki/Weak artificial intelligence
 - Weak AI, also known as Narrow AI, is a type of artificial intelligence that↓
 	- is limited to a specific or narrow area
 	- is designed to perform a single task or a limited set of tasks
