@@ -31,6 +31,7 @@
 		  query-sort-by:: page
 		  query-sort-desc:: false
 	- Advanced Algorithm Design
+	  collapsed:: true
 		- {{query (page-property :topic "Advanced Algorithm Design")}}
 		  query-sort-by:: page
 		  query-sort-desc:: false
