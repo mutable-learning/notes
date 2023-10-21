@@ -1,5 +1,7 @@
 tags:: Algorithmics
 alias:: Mergesort
+topic:: Advanced Algorithm Design
+algo:: Unit 4 Outcome 2
 
 -
 - uses divide and conquer [[Recursion]] for sorting arrays.

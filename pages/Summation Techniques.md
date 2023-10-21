@@ -1,4 +1,6 @@
 tags:: Algorithmics
+topic:: Algorithm Design
+algo:: Unit 3 Outcome 2
 
 -
 - Use the techniques below to analyse [[Algorithms]] for patterns

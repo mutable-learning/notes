@@ -1,5 +1,7 @@
 tags:: Algorithmics, SoftDev, Python, Code Example
 alias:: Quicksort - Python
+topic:: Quicksort
+algo:: Unit 4 Outcome 2
 
 -
 - ```python

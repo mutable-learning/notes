@@ -1,5 +1,7 @@
 tags:: Algorithmics, SoftDev, Python, Code Example
 alias:: Binary Search - Python
+topic:: Binary Search
+algo:: Unit 4 Outcome 2
 
 -
 - ```python

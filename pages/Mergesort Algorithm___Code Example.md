@@ -1,5 +1,7 @@
 tags:: Algorithmics, Python, Code Example
 alias:: Mergesort - Python
+topic:: Mergesort
+algo:: Unit 4 Outcome 2
 
 - ```python
   # mergesort algorithm as a recursive function
