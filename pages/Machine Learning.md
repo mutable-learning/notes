@@ -1,4 +1,6 @@
 tags:: Algorithmics
+topic:: Machine Learning
+algo:: Unit 4 Outcome 3
 
 -
 	- a term used to describe approaches to solve problems that are too 'expensive' to tackle with human-developed [[Algorithms]]

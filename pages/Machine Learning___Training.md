@@ -1,4 +1,6 @@
 tags:: Algorithmics
+topic:: [[Machine Learning]]
+algo:: Unit 4 Outcome 3
 
 -
 - machine learning models require a high quantity of reliable data in order for the models to perform accurate predictions

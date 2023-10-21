@@ -40,8 +40,9 @@
 		  query-sort-by:: page
 		  query-sort-desc:: false
 		  query-properties:: [:page :topic]
-	- [[Algorithms]]
 	- [[Machine Learning]]
+		- {{query (page-property :topic "Machine Learning")}}
+		  query-properties:: [:page :topic]
 	- Problems
 	  collapsed:: true
 		- {{query (page-property :topic "Problems")}}
