@@ -3,7 +3,6 @@ topic:: Advanced Algorithm Design
 algo:: Unit 4 Outcome 2
 
 -
-- A* (A Star) Search Algorithm - Computerphile - YouTube
 - A* is a graph traversal and path search algorithm used to find the shortest path between two nodes in a weighted graph.
 - It is an informed search algorithm, which means that it uses a heuristic function to estimate the cost of the remaining path from a given node to the goal node.
 - This heuristic function helps A* to focus its search on the most promising nodes, which can significantly improve its performance.
