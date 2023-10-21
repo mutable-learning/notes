@@ -1,5 +1,6 @@
 tags:: Algorithmics
-alias:: Optimal Substructure
+topic:: [[Dynamic Programming]] 
+algo:: Unit 4 Outcome 2
 
 -
 - a problem has optimal substructure if the optimal solution to the problem can be obtained by combining optimal solutions to its subproblems.

@@ -1,5 +1,6 @@
 tags:: Algorithmics
-alias:: Backtracking
+topic:: Advanced Algorithm Design
+algo:: Unit 4 Outcome 2
 
 -
 - an algorithmic technique for solving problems recursively or iteratively by trying to build a solution incrementally, one piece at a time, removing those solutions that fail to satisfy the constraints of the problem at any point in time.

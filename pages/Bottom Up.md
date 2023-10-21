@@ -1,5 +1,6 @@
 tags:: Algorithmics
-alias:: Bottom-Up
+topic:: [[Dynamic Programming]] 
+algo:: Unit 4 Outcome 2
 
 -
 - the bottom-up approach in [[Dynamic Programming]] is an algorithmic technique for solving problems by solving smaller subproblems first and then using the solutions to the subproblems to solve the larger problem.

@@ -1,5 +1,6 @@
 tags:: Algorithmics
-alias:: Dynamic Programming
+topic:: Advanced Algorithm Design
+algo:: Unit 4 Outcome 2
 
 -
 - an algorithmic technique for solving problems by breaking them down into smaller subproblems and using the solutions to those subproblems to solve the original problem.
@@ -30,3 +31,5 @@ alias:: Dynamic Programming
 	- Watch
 		- {{video https://www.youtube.com/watch?v=P8Xa2BitN3I&pp=ygUTZHluYW1pYyBwcm9ncmFtbWluZw%3D%3D}}
 		- {{video https://www.youtube.com/watch?v=aPQY__2H3tE&pp=ygUTZHluYW1pYyBwcm9ncmFtbWluZw%3D%3D}}
+-
+-

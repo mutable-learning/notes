@@ -1,5 +1,7 @@
 tags:: Algorithmics
-alias:: Memoization, Top-Down
+alias:: Top-Down
+topic:: Dynamic Programming
+algo:: Unit 4 Outcome 2
 
 -
 - is a [[Dynamic Programming]] optimization technique used to speed up computer programs by storing the results of expensive function calls and returning the cached result when the same inputs occur again.

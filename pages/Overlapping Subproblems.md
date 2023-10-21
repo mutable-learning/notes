@@ -1,5 +1,6 @@
 tags:: Algorithmics
-alias:: Overlapping Subproblems
+topic:: [[Dynamic Programming]] 
+algo:: Unit 4 Outcome 2
 
 -
 - a problem has overlapping subproblems if the same subproblems are used to solve multiple instances of the problem.

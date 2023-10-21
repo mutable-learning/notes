@@ -30,6 +30,11 @@
 		  query-properties:: [:page :topic]
 		  query-sort-by:: page
 		  query-sort-desc:: false
+	- Advanced Algorithm Design
+		- {{query (page-property :topic "Advanced Algorithm Design")}}
+		  query-sort-by:: page
+		  query-sort-desc:: false
+		  query-properties:: [:page :topic]
 	- [[Design Patterns]]
 	- [[Algorithms]]
 	- [[Machine Learning]]
