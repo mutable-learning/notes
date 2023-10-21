@@ -1,6 +1,5 @@
 tags:: Algorithmics, SoftDev, Python, Code Example
-alias:: Quicksort - Python
-topic:: Quicksort
+topic:: Python Implementations
 algo:: Unit 4 Outcome 2
 
 -

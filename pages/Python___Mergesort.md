@@ -1,6 +1,5 @@
 tags:: Algorithmics, Python, Code Example
-alias:: Mergesort - Python
-topic:: Mergesort
+topic:: Python Implementations
 algo:: Unit 4 Outcome 2
 
 - ```python
