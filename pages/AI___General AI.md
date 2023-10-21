@@ -1,6 +1,6 @@
 tags:: Algorithmics
 alias:: AGI, Artificial General Intelligence
-topic:: AI
+topic:: [[AI]] 
 algo:: Unit 4 Outcome 3
 
 -

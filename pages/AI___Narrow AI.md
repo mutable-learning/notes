@@ -1,5 +1,5 @@
 tags:: Algorithmics
-topic:: AI
+topic:: [[AI]]
 algo:: Unit 4 Outcome 3
 
 -
