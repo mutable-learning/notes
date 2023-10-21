@@ -25,6 +25,7 @@
 		  query-sort-by:: page
 		  query-sort-desc:: false
 	- Algorithm Design
+	  collapsed:: true
 		- {{query (page-property :topic "Algorithm Design")}}
 		  query-properties:: [:page :topic]
 		  query-sort-by:: page
