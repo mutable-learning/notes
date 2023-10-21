@@ -1,6 +1,6 @@
 tags:: Algorithmics
 topic:: Computer Science
-algo
+algo:: Unit 4 Outcome 3
 
 -
 - A decidable problem is a problem that can be solved by an algorithm that always returns a correct answer.
