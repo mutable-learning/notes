@@ -3,9 +3,6 @@ topic:: Computer Science
 algo:: Unit 4 Outcome 3
 
 -
-- The Turing test: Can a computer pass for a human? - Alex Gendler - YouTube
-- The Turing Test - Computerphile - YouTube
-- Turing test - Wikipedia
 - The Turing test is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.
 - It was introduced by Alan Turing in his 1950 paper, "Computing Machinery and Intelligence".
 - The Turing test is conducted as follows
