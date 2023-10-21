@@ -33,5 +33,10 @@
 	- [[Design Patterns]]
 	- [[Algorithms]]
 	- [[Machine Learning]]
-	- [[Problems]]
+	- Problems
+	  collapsed:: true
+		- {{query (page-property :topic "Problems")}}
+		  query-sort-by:: page
+		  query-sort-desc:: false
+		  query-properties:: [:page :topic]
 	-
