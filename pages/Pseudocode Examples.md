@@ -27,7 +27,7 @@ softdev:: Unit 3
 	  End
 	  ```
 - Iteration
-	- to repeat parts of an algorithm a number of times, use iteration
+	- to repeat parts of an algorithm a number of times, use iteration and [[Conditional Expressions]]
 	- run the lines
 		- a number of times with a For loop
 		- as long as a condition is true with a While loop
@@ -51,7 +51,7 @@ softdev:: Unit 3
 	  End
 	  ```
 - Conditionals
-	- use boolean expressions to test for conditions and run different *branches* of algorithms based on the results of the expressions
+	- use [[Conditional Expressions]] to test for conditions and run different *branches* of algorithms based on the results of the expressions
 		- use If, Else If and Else conditions
 		- use AND, OR and NOT in expressions
 		- ```
