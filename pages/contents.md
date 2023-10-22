@@ -30,6 +30,9 @@
 		  query-properties:: [:page :topic]
 		  query-sort-by:: page
 		  query-sort-desc:: false
+	- [[Algorithm Analysis]]
+		- {{query (page-property :topic "Algorithm Analysis")}}
+		  query-properties:: [:page :topic]
 	- Advanced Algorithm Design
 		- {{query (page-property :topic "Advanced Algorithm Design")}}
 		  query-sort-by:: page
