@@ -22,7 +22,7 @@ algo:: Unit 3 Outcome 2
 	      Label root as explored
 	      Q.enqueue(root)
 	      While Q is not empty Do
-	          v <-- Q.dequeue()
+	          v <-- Q.dequeue() 
 	          If v is the goal Then
 	              Return v
 	          End If
@@ -36,7 +36,6 @@ algo:: Unit 3 Outcome 2
 	      End While
 	  End
 	  ```
-	-
 -
 - Further Research
   background-color:: purple

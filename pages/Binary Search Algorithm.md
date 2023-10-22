@@ -1,5 +1,6 @@
 tags:: Algorithmics, SoftDev
-topic:: Recursion
+alias:: Binary Search
+topic:: Advanced Algorithm Design
 algo:: Unit 4 Outcome 2
 
 -

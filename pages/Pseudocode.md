@@ -32,7 +32,7 @@ softdev:: Unit 3
 	           If n is divisible by 2
 	               Return direction(n + 7, count – 1)
 	           Else
-	               Return direction((n-1)/2, count – 1)
+	               Return direction((n-1)/2, count – 1) 
 	           End If
 	           If the remainder of dividing n by 4 is 0 Return ‘n’
 	           If the remainder of dividing n by 4 is 1 Return ‘e’
