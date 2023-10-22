@@ -1,5 +1,5 @@
 tags:: Algorithmics
-topic:: Algorithm Design
+topic:: [[Algorithm Design]]
 algo:: Unit 3 Outcome 2
 
 -
