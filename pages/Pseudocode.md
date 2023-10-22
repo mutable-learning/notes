@@ -25,7 +25,7 @@ softdev:: Unit 3
 		- for example x <-- 0 is the same as setting x to hold the value of 0
 	- '=' is only used to compare a value with another using Boolean algebra.
 		- for example x = 1 is a statement that asks if x is equal to 1 and will only result in true or false when the pseudocode is executed.
-- Example
+- Example ([More Examples]([[Pseudocode Examples]]))
 	- ```
 	  Algorithm direction(n, count)
 	      If count > 1

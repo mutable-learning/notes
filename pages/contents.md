@@ -12,6 +12,7 @@
 		  query-sort-desc:: false
 		  query-properties:: [:page :block :topic]
 	- [[Pseudocode]]
+		- [[Pseudocode Examples]]
 	- [[Minimal Spanning Tree]]
 	  collapsed:: true
 		- {{query (page-property :topic "MST")}}
