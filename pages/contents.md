@@ -12,6 +12,7 @@
 		  query-sort-desc:: false
 		  query-properties:: [:page :block :topic]
 	- [[Pseudocode]]
+	  collapsed:: true
 		- {{query (page-property :topic "Pseudocode")}}
 		  query-sort-by:: page
 		  query-sort-desc:: false
@@ -23,11 +24,13 @@
 		  query-sort-by:: page
 		  query-sort-desc:: false
 	- Graph Traversal
+	  collapsed:: true
 		- {{query (page-property :topic "Graph Traversal")}}
 		  query-properties:: [:alias :topic]
 		  query-sort-by:: page
 		  query-sort-desc:: false
 	- [[Algorithm Design]]
+	  collapsed:: true
 		- {{query (page-property :topic "Algorithm Design")}}
 		  query-properties:: [:page :topic]
 		  query-sort-by:: page
@@ -39,6 +42,7 @@
 		  query-sort-by:: page
 		  query-sort-desc:: false
 	- Advanced Algorithm Design
+	  collapsed:: true
 		- {{query (page-property :topic "Advanced Algorithm Design")}}
 		  query-sort-by:: page
 		  query-sort-desc:: false
