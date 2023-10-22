@@ -1,6 +1,6 @@
 tags:: Algorithmics
 alias:: List
-topic:: Abstract Data Types
+topic:: [[Abstract Data Types]]
 algo:: Unit 3 Outcome 1
 
 -

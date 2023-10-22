@@ -1,6 +1,6 @@
 tags:: Algorithmics
 alias:: Kruskal's
-topic:: MST
+topic:: [[MST]] 
 algo:: Unit 3 Outcome 2
 
 -

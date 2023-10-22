@@ -1,6 +1,6 @@
 tags:: Algorithmics
 alias:: Prim's
-topic:: MST
+topic:: [[MST]]
 algo:: Unit 3 Outcome 2
 
 -
