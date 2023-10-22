@@ -5,12 +5,12 @@ algo:: Unit 4 Outcome 1
 -
 - ```
   Algorithm bubble_sort(arr):
-    \\ indexes start from 0
-    n \leftarrow length(arr) - 1
-    For i \leftarrow 0 to n Do
-        For j  \leftarrow 0 to n-i-1 Do
+    // indexes start from 0
+    n <-- length(arr) - 1
+    For i <-- 0 to n Do
+        For j  <-- 0 to n-i-1 Do
             If arr[j] > arr[j+1] Then
-                arr[j], arr[j+1] \leftarrow arr[j+1], arr[j]
+                arr[j], arr[j+1] <-- arr[j+1], arr[j]
             End If
         End For
      End For   
