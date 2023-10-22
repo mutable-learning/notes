@@ -6,6 +6,7 @@
 		  query-sort-desc:: false
 		  query-properties:: [:page :topic]
 	- [[Graphs & Trees]]
+	  collapsed:: true
 		- {{query (page-property :topic "Graphs & Trees")}}
 		  query-sort-by:: page
 		  query-sort-desc:: false

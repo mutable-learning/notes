@@ -8,7 +8,7 @@ algo:: Unit 3 Outcome 2
 - Start at any node, or the root node (in a tree)
 - Explore as far along a branch as possible until a leaf node is encountered
 - Backtrack up the branch to the previous branch on the path
-- Only difference with [[Breadth-first Search]] is using a [[Stack]] instead of a [[Queue]]]
+- Only difference with [[Breadth-first Search]] is using a [[Stack]] instead of a [[Queue]]
 - Steps to follow
 	- Start from root node (random for graph)
 	- Set node as seen

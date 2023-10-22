@@ -1,4 +1,7 @@
 tags:: Algorithmics, SoftDev
+topic:: Pseudocode
+algo:: Unit 3 Outcome 2
+softdev:: Unit 3
 
 -
 - informal code with a structure and accepted syntax that is used to detail an algorithm in plain English but in a manner similar to code
