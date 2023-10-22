@@ -1,5 +1,6 @@
 tags:: Algorithmics
-alias:: Supervised Learning
+topic:: [[Machine Learning]]
+algo:: Unit 4 Outcome 3
 
 -
 - these algorithms build a mathematical model of a set of data that contains both the inputs and the desired outputs

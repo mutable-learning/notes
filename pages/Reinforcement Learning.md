@@ -1,5 +1,6 @@
 tags:: Algorithmics
-alias:: Reinforcement Learning
+topic:: [[Machine Learning]]
+algo:: Unit 4 Outcome 3
 
 -
 - how software agents ought to take actions in an environment so as to maximize some notion of cumulative reward

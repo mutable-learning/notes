@@ -43,6 +43,8 @@
 	- [[Machine Learning]]
 		- {{query (page-property :topic "Machine Learning")}}
 		  query-properties:: [:page :topic]
+		  query-sort-by:: page
+		  query-sort-desc:: false
 	- Problems
 	  collapsed:: true
 		- {{query (page-property :topic "Problems")}}

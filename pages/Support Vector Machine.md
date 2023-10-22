@@ -1,5 +1,7 @@
 tags:: Algorithmics
-alias:: SVM, Support Vector Machine
+alias:: SVM
+topic:: [[Machine Learning]]
+algo:: Unit 4 Outcome 3
 
 -
 - a [[Supervised Learning]] machine learning algorithm that can be used for classification or regression.

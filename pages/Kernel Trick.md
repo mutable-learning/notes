@@ -1,5 +1,7 @@
 tags:: Algorithmics
-alias:: Kernel Trick, Kernel Function
+alias:: Kernel Function
+topic:: [[Machine Learning]]
+algo:: Unit 4 Outcome 3
 
 -
 - used by a [[Support Vector Machine]] to classify non-linear data

@@ -1,5 +1,6 @@
 tags:: Algorithmics
-alias:: Unsupervised Learning
+topic:: [[Machine Learning]]
+algo:: Unit 4 Outcome 3
 
 -
 - take a set of data that contains only inputs, and find structure in the data, like grouping or clustering of data points
