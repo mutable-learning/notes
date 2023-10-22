@@ -3,7 +3,8 @@ topic:: [[Time Complexity Classes]]
 algo:: Unit 4 Outcome 1
 
 -
-- NP problems are those that can be verified in polynomial time. This means that the time it takes to verify the correctness of the output of an NP problem grows as a polynomial function of the size of the input.
+- NP problems are those that can be verified in polynomial time. This means that the time it takes to verify the correctness of the output o
+- f an NP problem grows as a polynomial function of the size of the input.
 - Here are some of the characteristics of NP problems:
 	- Verifiable
 		- NP problems are verifiable, which means that the correctness of the output can be verified in polynomial time. This means that NP problems can be solved by a deterministic algorithm that can check the correctness of the output.
