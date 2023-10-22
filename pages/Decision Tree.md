@@ -1,5 +1,5 @@
 tags:: Algorithmics
-topic:: Graphs & Trees
+topic:: [[Graphs & Trees]]
 algo:: Unit 3 Outcome 1
 
 - A decision tree is

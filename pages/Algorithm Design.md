@@ -1,3 +1,8 @@
+tags:: Algorithmics
+topic:: Algorithm Design
+algo:: Unit 3 Outcome 2
+
+-
 - formalise processes as algorithms and execute them
 - decompose problems into smaller parts that can be solved independantly
 - use [[Abstract Data Types]] and [[Design Patterns]] such as [[Iteration]], [[Recursion]], [[Brute-Force]] and [[Greedy]] to create modular algorithms
