@@ -1,8 +1,8 @@
 -
 - tags:: Algorithmics
   alias:: Curse of Dimensionality
-  topic:: Algorithm Design
-  algo:: Unit 3 Outcome 2
+  topic:: [[Algorithm Analysis]] 
+  algo:: Unit 4 Outcome 1
 -
 - a disadvantage of using a [[Brute-Force]] [[Design Pattern]] for real-world problems is that the number of natural candidates (possible combinations) is prohibitively large.
 - for instance, if we are seeking a particular rearrangement of 10 letters, then we have 10! = 3,628,800 candidates to consider, which a typical PC can generate and test in less than one second.
