@@ -6,6 +6,7 @@
 		  query-sort-desc:: false
 		  query-properties:: [:page :topic]
 	- [Graphs]([[Graph Properties]])
+	  collapsed:: true
 		- {{query (page-property :topic "Graphs & Trees")}}
 		  query-sort-by:: page
 		  query-sort-desc:: false
@@ -30,21 +31,25 @@
 		  query-sort-by:: page
 		  query-sort-desc:: false
 	- [[Algorithm Analysis]]
+	  collapsed:: true
 		- {{query (page-property :topic "Algorithm Analysis")}}
 		  query-properties:: [:page :topic]
 		  query-sort-by:: page
 		  query-sort-desc:: false
 	- Advanced Algorithm Design
+	  collapsed:: true
 		- {{query (page-property :topic "Advanced Algorithm Design")}}
 		  query-sort-by:: page
 		  query-sort-desc:: false
 		  query-properties:: [:page :topic]
 	- Computer Science
+	  collapsed:: true
 		- {{query (page-property :topic "Computer Science")}}
 		  query-sort-by:: page
 		  query-sort-desc:: false
 		  query-properties:: [:page :topic]
 	- [[Machine Learning]]
+	  collapsed:: true
 		- {{query (page-property :topic "Machine Learning")}}
 		  query-properties:: [:page :topic]
 		  query-sort-by:: page
