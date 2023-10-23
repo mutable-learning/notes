@@ -1,6 +1,6 @@
 tags:: Algorithmics
 alias:: Floyd-Warshall
-topic:: Graph Traversal
+topic:: [[Graph Traversal]]
 algo:: Unit 3 Outcome 2
 
 -

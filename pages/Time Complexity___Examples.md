@@ -16,6 +16,7 @@ algo:: Unit 4 Outcome 1
 - O(n)
 	- Linear time algorithms: These algorithms take time that is proportional to the size of the input. Some examples of linear time algorithms include:
 		- Sorting an array using bubble sort
+		  id:: 6534710c-f57d-4318-9236-706f3b4ddaef
 		- Searching an array using linear search
 		- Finding the maximum element in an array
 - O(n \log n)

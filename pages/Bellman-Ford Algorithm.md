@@ -1,6 +1,6 @@
 tags:: Algorithmics
 alias:: Bellman-Ford
-topic:: Graph Traversal
+topic:: [[Graph Traversal]]
 algo:: Unit 3 Outcome 2
 
 - uses a [[Brute-Force]] approach to check all edges for a vertex and build a solution incrementally

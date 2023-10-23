@@ -13,3 +13,4 @@ algo:: Unit 3 Outcome 1
 		- [Graph theory - Wikipedia](https://en.wikipedia.org/wiki/Graph_theory#Computer_science)
 	- Watch
 		- {{video https://www.youtube.com/watch?v=82zlRaRUsaY&pp=ygUXd2hhdCBpcyBhIGdyYXBoIG5ldHdvcms%3D}}
+		- {{video https://www.youtube.com/watch?v=eQA-m22wjTQ}}

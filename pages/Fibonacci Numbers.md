@@ -34,7 +34,8 @@ algo:: Unit 4 Outcome 2
 - The dynamic programming solution to the Fibonacci number problem is more efficient than the recursive solution because it only computes the Fibonacci numbers for the subproblems that are actually needed.
 - The recursive solution, on the other hand, computes the Fibonacci numbers for all of the subproblems, even the ones that have been solved in other recursive steps.
 - Another solution that makes use of [[Memoization]] uses a recursive function inside the algorithm to allow for the 'cache' of results to exist and be used by the function
-	- ```
+	- id:: 6530508e-d044-436e-ad90-48707fd26832
+	  ```
 	  Algorithm fibonacci_memoization(n)
 	  	// Dynamic programming version using memoization
 	      

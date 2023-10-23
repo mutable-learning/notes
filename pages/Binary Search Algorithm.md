@@ -4,7 +4,7 @@ topic:: Advanced Algorithm Design
 algo:: Unit 4 Outcome 2
 
 -
-- is a decrease and conquer [[Recursion]] algorithm that works on sorted arrays.
+- is a [[Decrease and Conquer]] [[Recursion]] algorithm that works on sorted arrays.
 - is a very efficient algorithm for searching ***sorted*** arrays.
 	- In terms of iterations, no search algorithm that works only by comparing elements can exhibit better average and worst-case performance than binary search.
 - works by

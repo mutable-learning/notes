@@ -21,6 +21,7 @@ algo:: Unit 3 Outcome 2
 		- is an operation on one logical value
 		- if $P$ is true then $\lnot P$ is false
 		- $NOT\ P$ is true if $P$ is false
+- ![Latex commands for Logic and Set notation](../assets/logic_set_notation.png)
 - use parentheses to group parts of an expression together to make it more understandable
 - use a truth table to help understand the result of more complex expression involving multiple logical statements
 -

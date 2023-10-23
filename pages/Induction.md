@@ -6,7 +6,9 @@ algo:: Unit 3 Outcome 2
 -
 - the idea is that if the previous statement is true, it follows that the next statement in the sequence is also true
 - if you want to prove that the algorithm works for any value of N you want to show that it works for  values $N_1, N_2, N_3.....N_k$
-- this implies that if it works for $N_k$ it will also work for $N_{k+1}$ which is written using notation as $N_k \implies N_{k+1}$ ([Logic and Set Notation](https://katex.org/docs/supported#logic-and-set-theory))
+- this implies that if it works for $N_k$ it will also work for $N_{k+1}$ which is written using notation as $N_k \implies N_{k+1}$
+- ![Latex commands for Logic and Set notation](../assets/logic_set_notation.png)
+	- [Logic and Set Notation](https://katex.org/docs/supported#logic-and-set-theory)
 - show that the algorithm works for a base case and then create a hypothesis stating that it will be assumed to hold for another case.
 - using the base case and the proposition we then show that the algorithm works for the next case after our hypothesis, proving that the base case, our hypothesis and the next case of our algorithm work.
 - the steps to perform a proof by induction are

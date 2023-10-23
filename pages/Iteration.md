@@ -10,6 +10,7 @@ algo:: Unit 3 Outcome 2
 	- iterate while a condition is true or false
 	- iterate until a condition becomes true or false
 	- this is the main difference between iteration and [[Recursion]]
+	- uses [[conditional expressions]] to make evaluations about the condition for the loop continuing or not in while and until looping structures
 - loops are the most common structures for implementing iteration
 	- ```
 	  // A simple iteration pattern using a For loop

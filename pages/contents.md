@@ -23,20 +23,18 @@
 		  query-properties:: [:page :topic]
 		  query-sort-by:: page
 		  query-sort-desc:: false
-	- Graph Traversal
+	- [[Graph Traversal]]
 	  collapsed:: true
 		- {{query (page-property :topic "Graph Traversal")}}
 		  query-properties:: [:alias :topic]
 		  query-sort-by:: page
 		  query-sort-desc:: false
 	- [[Algorithm Design]]
-	  collapsed:: true
 		- {{query (page-property :topic "Algorithm Design")}}
 		  query-properties:: [:page :topic]
 		  query-sort-by:: page
 		  query-sort-desc:: false
 	- [[Algorithm Analysis]]
-	  collapsed:: true
 		- {{query (page-property :topic "Algorithm Analysis")}}
 		  query-properties:: [:page :topic]
 		  query-sort-by:: page

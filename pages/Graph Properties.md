@@ -15,22 +15,26 @@ algo:: Unit 3 Outcome 1
 	- delivery routes
 - Vertices
 	- are the nodes or objects in a graph
+	- represent a person, place, thing
 - Edges
 	- connect vertices together with a line
 	- indicate a relationship between two vertices
-- Graphs can be
-	- undirected
-		- edges have no direction between nodes
-		- travel along the edge can occur in either direction
-	- directed
-		- all edges have a direction indicating the start and end point
-		- each edge has an arrow to indicate the direction allowed
-- Edges can be
-	- unweighted
-		- no value is associated with the edge between two nodes
-	- weighted
-		- edges have a weight value
-		- weights represent a value such as distance, cost, time, difficulty etc
+- Undirected
+	- edges have no direction between nodes
+	- travel along the edge can occur in either direction
+- Directed
+	- all edges have a direction indicating the start and end point
+	- each edge has an arrow to indicate the direction allowed
+- Unweighted
+	- no value is associated with the edge between two nodes
+- Weighted
+	- edges have a weight value
+	- weights represent a value such as distance, cost, time, difficulty etc
+- Cyclic
+	- at least one ((6515425f-9d14-49ab-a511-9463c912283e)) exists in the graph
+- Acyclic
+	- no ((6515425f-9d14-49ab-a511-9463c912283e)) exists in the graph
+	- a [[Tree]] is always acyclic
 - Order
 	- is the number of vertices in a graph
 - Size
@@ -56,15 +60,20 @@ algo:: Unit 3 Outcome 1
 - Leaf vertex
 	- is a vertex with a degree of one
 - Adjacent
+  id:: 6515425f-8afb-46c4-bb8e-55d83e780f40
 	- w is adjacent to v if
 		- the graph contains an edge (v,w)
-- Adjacency Matrix
-	- https://ycpcs.github.io/cs360-spring2019/lectures/images/lecture15/adjmatexample.png
-	- https://i.stack.imgur.com/Ghcvy.png
-	- https://bournetocode.com/projects/AQA_A_Theory/pages/img/Weighted-Graph-Adjacency-Matrix.png
-	-
-- Adjacency List
-	- https://i.ytimg.com/vi/k1wraWzqtvQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDrN_GSlQ-ncrVzgTQQioSdODTZiQ
+		- see [[Adjacency List]] and [[Adjacency Matrix]]
+- Incident
+  id:: 6535ccd2-1393-49ee-90e2-286961be854e
+	- a vertex is incident with an edge if it is one of the two vertices the edge connects
+	- see [[Incidence Matrix]]
+- Sparse
+	- a graph with few edges compared to vertices
+- Dense
+	- a graph with many edges for each vertex
+	- close to the maximal number of edges
+	- such as a ((6515425f-db2b-47ef-973c-4f77dbe84452))
 - Subgraph
 	- g is a subgraph of G if
 		- all the vertices and edges of g are in G
@@ -78,17 +87,19 @@ algo:: Unit 3 Outcome 1
 - Path
 	- a sequence of vertices and edges with no repeated edge or vertex
 - Cycle
+  id:: 6515425f-9d14-49ab-a511-9463c912283e
 	- a closed path, starting and ending at the same vertex
 - Connected Graph
 	- a simple undirected graph
 	- there is a path from any vertex to any other vertex
 - Complete Graph
+  id:: 6515425f-db2b-47ef-973c-4f77dbe84452
 	- a simple undirected graph
 	- each pair of distinct vertices is connected by an edge
 - Complete Directed Graph
 	- a directed graph
 	- each pair of distinct vertices is connected by a pair of unique edges (one each direction)
 - Directed Acyclic Graph
-	- is a directed graph with all edges directed from one vertex to another in such a way that a closed loop is never formed
+	- is a directed graph with all edges directed from one vertex to another in such a way that a ((6515425f-9d14-49ab-a511-9463c912283e)) is never formed
 	- can be topologically ordered by arranging the vertices linearly (top to bottom for example) consistent with all edge directions
 	- a family tree is an example

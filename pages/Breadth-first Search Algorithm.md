@@ -1,6 +1,6 @@
 tags:: Algorithmics
 alias:: BFS, Breadth-first Search
-topic:: Graph Traversal
+topic:: [[Graph Traversal]]
 algo:: Unit 3 Outcome 2
 
 -
