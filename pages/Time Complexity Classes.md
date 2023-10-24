@@ -31,7 +31,8 @@ algo:: Unit 4 Outcome 1
 - Further Research
   background-color:: purple
 	- Read
-		- [Time complexity - Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
+		- [Complexity class - Wikipedia](https://en.wikipedia.org/wiki/Complexity_class)
+		- [P, NP, CoNP, NP hard and NP complete | Complexity Classes - GeeksforGeeks](https://www.geeksforgeeks.org/types-of-complexity-classes-p-np-conp-np-hard-and-np-complete/)
 	- Watch
 		- {{video https://www.youtube.com/watch?v=n0zd5hcOSQI&pp=ygUgbnAtaGFyZCBhbmQgbnAtY29tcGxldGUgcHJvYmxlbXM%3D}}
 		- {{video https://www.youtube.com/watch?v=YX40hbAHx3s&pp=ygUWbnAgbnAtaGFyZCBucC1jb21wbGV0ZQ%3D%3D}}

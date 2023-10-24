@@ -48,3 +48,11 @@ algo:: Unit 4 Outcome 1
 	  \end{cases}
 	  \end{align}
 	  $$
+-
+- Further Research
+  background-color:: purple
+	- Read
+		- [Master theorem (analysis of algorithms) - Wikipedia](https://en.wikipedia.org/wiki/Master_theorem_(analysis_of_algorithms))
+		- [Master Theorem | Brilliant Math & Science Wiki](https://brilliant.org/wiki/master-theorem/)
+	- Watch
+		- {{video https://www.youtube.com/watch?v=2H0GKdrIowU&pp=ygUObWFzdGVyIHRoZW9yZW0%3D}}

@@ -17,10 +17,34 @@ algo:: Unit 4 Outcome 1
   End
   ```
 - Some techniques for determining time complexity of iterative algorithms:
-	- Identify the basic operations. The first step is to identify the basic operations that the algorithm performs. These are the operations that take time to execute. For example, the basic operations in the algorithm bubble sort are comparing two elements and swapping two elements.
-	- Count the number of times each operation is performed. Once you have identified the basic operations, you need to count the number of times each operation is performed. For example, the algorithm bubble sort compares each element in the array with the next element, so it performs n-1 comparisons.
-	- Find the dominant term. The dominant term is the term that grows the fastest as the size of the input grows. For example, the dominant term in the time complexity of bubble sort is n^2, because the number of comparisons grows quadratically as the size of the input grows.
-	- Use Big O notation to express the time complexity. Once you have identified the dominant term, you can use Big O notation to express the time complexity of the algorithm. For example, the time complexity of bubble sort is O(n^2).
+	- identify the basic operations
+		- the operations that take time to execute
+		- for example, the basic operations in the algorithm bubble sort are
+			- comparing two elements
+			- swapping two elements.
+	- Count the number of times each operation is performed
+		- for example, the algorithm bubble sort compares each element in the array with the next element
+		- it performs n-1 comparisons
+	- Find the dominant term
+		- Dominant Term
+			- is the term that grows the fastest as the size of the input grows
+		- for example, the dominant term in the [[Time Complexity]] of bubble sort is $n^2$
+			- the number of comparisons grows quadratically as the size of the input grows
+	- Use Big $O$ notation to express the [[time complexity]]
+		- use Big $O$ notation to express the time complexity of the algorithm
+		- for example, the time complexity of bubble sort is $O(n^2)$
 - Here are some additional tips for determining time complexity of iterative algorithms:
-	- Look for patterns. Often, you can find patterns in the way that an algorithm works that can help you to determine its time complexity. For example, many sorting algorithms work by comparing pairs of elements, so the number of comparisons is often the dominant term in their time complexity.
-	- Use a calculator. If you are having trouble determining the dominant term, you can use a calculator to estimate the number of times each operation is performed. This can help you to identify the term that grows the fastest as the size of the input grows.
+	- look for patterns
+		- often, you can find patterns in the way that an algorithm works that can help you to determine its time complexity
+		- for example, many sorting algorithms work by comparing pairs of elements, so the number of comparisons is often the dominant term in their time complexity
+	- use a calculator
+		- if you are having trouble determining the dominant term, you can use a calculator to estimate the number of times each operation is performed
+		- this can help you to identify the term that grows the fastest as the size of the input grows
+-
+- Further Research
+  background-color:: purple
+	- Read
+		- [How to Analyse Loops for Complexity Analysis of Algorithms - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-analyse-loops-for-complexity-analysis-of-algorithms/)
+		- [SI335: Analyzing simple iterative algorithms](https://www.usna.edu/Users/cs/wcbrown/courses/S18SI335/lec/l03/lec.html)
+	- Watch
+		- {{video https://www.youtube.com/watch?v=TshlVlvU1TY&pp=ygUUaXRlcmF0aXZlIGFsZ29yaXRobXM%3D}}

@@ -10,6 +10,7 @@ algo:: Unit4 Outcome 1
   background-color:: purple
 	- Read
 		- [Analysis of algorithms - Wikipedia](https://en.wikipedia.org/wiki/Analysis_of_algorithms)
+		- [Design and Analysis of Algorithms - GeeksforGeeks](https://www.geeksforgeeks.org/design-and-analysis-of-algorithms/)
 	- Watch
 		- {{video https://www.youtube.com/watch?v=myZKhztFhzE}}
 -

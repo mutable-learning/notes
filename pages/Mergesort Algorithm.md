@@ -1,6 +1,6 @@
 tags:: Algorithmics
 alias:: Mergesort
-topic:: Advanced Algorithm Design
+topic:: [[Advanced Algorithm Design]]
 algo:: Unit 4 Outcome 2
 
 -

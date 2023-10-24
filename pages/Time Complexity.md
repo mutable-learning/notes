@@ -34,6 +34,8 @@ algo:: Unit 4 Outcome 1
 	- Big $\Theta$
 		- average-case time complexity
 		- describes both the lower bound and upper bound
+		- is the tightest bound, or the best of all the upper bounds that the algorithm can have
+		- provides a more precise estimate of the time complexity over Big $O$ or Big $\Omega$
 	- Big $\Omega$
 		- best-case time complexity
 		- describes the lower bound
@@ -41,7 +43,9 @@ algo:: Unit 4 Outcome 1
 - Further Research
   background-color:: purple
 	- Read
-		- a
+		- [Time complexity - Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
+		- [Analysis of Algorithms | Big-O analysis - GeeksforGeeks](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)
+		- [Difference between Big O vs Big Theta Θ vs Big Omega Ω Notations - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-big-oh-big-omega-and-big-theta/)
 	- Watch
 		- {{video https://www.youtube.com/watch?v=g2o22C3CRfU&pp=ygUWYW5hbHlzaXMgb2YgYWxnb3JpdGhtcw%3D%3D}}
 		- {{video https://www.youtube.com/watch?v=__vX2sjlpXU&pp=ygUWYW5hbHlzaXMgb2YgYWxnb3JpdGhtcw%3D%3D}}

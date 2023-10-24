@@ -70,4 +70,11 @@ softdev:: Unit 3
 	- use **Algorithm** or **Function** to name blocks of code as functions
 	- *Call* a function from inside a function or an algorithm
 	- ((6530508e-d044-436e-ad90-48707fd26832))
-	-
+-
+- Further Research
+  background-color:: purple
+	- Read
+		- [Pseudocode - Wikipedia](https://en.wikipedia.org/wiki/Pseudocode)
+	- Watch
+		- {{video https://www.youtube.com/watch?v=eSYeHlwDCNA&pp=ygUTaXRlcmF0aXZlIGFsZ29yaXRobQ%3D%3D}}
+		-

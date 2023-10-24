@@ -44,6 +44,9 @@ algo:: Unit 4 Outcome 1
 - Further Research
   background-color:: purple
 	- Read
-		- a
+		- [Recurrence relation - Wikipedia](https://en.wikipedia.org/wiki/Recurrence_relation)
+		- [How to analyse Complexity of Recurrence Relation - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-analyse-complexity-of-recurrence-relation/)
+		- https://web.stanford.edu/class/archive/cs/cs161/cs161.1168/lecture3.pdf
 	- Watch
-		- b
+		- {{video https://www.youtube.com/watch?v=eAaP4XaB8hM&pp=ygUecmVjdXJyZW5jZSByZWFsdGlvbnMgcmVjdXJzaW9u}}
+		- {{video https://www.youtube.com/watch?v=zVeNqLg2uUc&pp=ygUecmVjdXJyZW5jZSByZWFsdGlvbnMgYWxnb3JpdGht}}
