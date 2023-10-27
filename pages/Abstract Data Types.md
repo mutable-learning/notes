@@ -12,25 +12,32 @@ algo:: Unit 3 Outcome 1
 	- Ready for change
 		- can accommodate change without rewriting
 - Key idea of ADTs
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-10-26T13:00:00.000Z
+  card-last-reviewed:: 2023-10-25T22:19:49.357Z
+  card-last-score:: 1
 	- **An [[ADT]] is characterized by the operations you can perform on it**
 	- The operations of the type constitute its [[Abstraction]]. This is the public part, visible to clients who use the type.
 - ADTs help us to
 	- separate how we use a data structure in a program from the particular form of the data structure itself
 	- address the problem of clients making assumptions about the type’s internal representation
 - Principles of ADTs
-	- [[Abstraction]]
-	  id:: 6514064f-73c7-46ec-8529-33fc6e966e8b
-	- [[Modularity]]
-	- [[Encapsulation]]
-	- [[Information Hiding]]
-	- [[Separation of Concerns]]
+	- {{embed [[Abstraction]]}}
+	- {{embed [[Modularity]]}}
+	- {{embed [[Encapsulation]]}}
+	- {{embed [[Information Hiding]]}}
+	- {{embed [[Separation of Concerns]]}}
 - Classifying ADTs
-	- Types, whether built-in or user-defined, can be classified as [[mutable]] or [[immutable]]
+	- Types, whether built-in or user-defined, can be classified as
+	- {{embed [[mutable]]}}
+	- {{embed [[immutable]]}}
 - Classifying ADT Operations
-	- [[Creators]]
-	- [[Producers]]
-	- [[Observers]]
-	- [[Mutators]]
+	- {{embed [[Creators]]}}
+	- {{embed [[Producers]]}}
+	- {{embed [[Observers]]}}
+	- {{embed [[Mutators]]}}
 - Designing an ADT
 	- aim for a few, simple operations
 	- aim for operations to be combined in powerful ways

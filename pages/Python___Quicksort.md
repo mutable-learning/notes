@@ -3,6 +3,7 @@ topic:: Python Implementations
 algo:: Unit 4 Outcome 2
 
 -
+- an implementation of [[Quicksort]]
 - ```python
   # A recursive function to sort an array using the quicksort algorithm
   # and includes a helper function to do the merge steps in linear time

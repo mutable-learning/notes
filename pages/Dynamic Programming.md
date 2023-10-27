@@ -31,5 +31,3 @@ algo:: Unit 4 Outcome 2
 	- Watch
 		- {{video https://www.youtube.com/watch?v=P8Xa2BitN3I&pp=ygUTZHluYW1pYyBwcm9ncmFtbWluZw%3D%3D}}
 		- {{video https://www.youtube.com/watch?v=aPQY__2H3tE&pp=ygUTZHluYW1pYyBwcm9ncmFtbWluZw%3D%3D}}
--
--

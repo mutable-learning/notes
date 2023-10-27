@@ -19,6 +19,7 @@ algo:: Unit 3 Outcome 1
 - **Membership**
 	- $x \in A$: is element $x$ is a member of (in) $A$
 	- $x \notin B$: is element $x$ is not a member of (not in) $B$
+- ![Latex commands for Logic and Set notation](../assets/logic_set_notation.png)
 -
 - Further Research
   background-color:: purple

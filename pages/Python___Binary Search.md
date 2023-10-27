@@ -3,6 +3,7 @@ topic:: Python Implementations
 algo:: Unit 4 Outcome 2
 
 -
+- an implementation of [[Binary Search]]
 - ```python
   def binary_search(l, value):
   	"""Iterative version of Binary Search"""

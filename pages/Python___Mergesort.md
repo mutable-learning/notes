@@ -2,6 +2,8 @@ tags:: Algorithmics, Python, Code Example
 topic:: Python Implementations
 algo:: Unit 4 Outcome 2
 
+-
+- an implementation of [[Mergesort]]
 - ```python
   # mergesort algorithm as a recursive function
   # and with a helper function to do the merge in linear time

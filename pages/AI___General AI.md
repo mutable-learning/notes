@@ -5,7 +5,7 @@ algo:: Unit 4 Outcome 3
 
 -
 -
-- Researchers generally hold that intelligence is required to do the following
+- researchers generally hold that intelligence is required to do the following
 	- reason, use strategy, solve puzzles, and make judgments under uncertainty
 	- represent knowledge, including common sense knowledge
 	- plan
@@ -17,6 +17,6 @@ algo:: Unit 4 Outcome 3
 - Further Research
   background-color:: purple
 	- Read
-		- a
+		- [Artificial general intelligence - Wikipedia](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
 	- Watch
-		- b
+		- {{video https://www.youtube.com/watch?v=2bn3S4vOVN4&pp=ygULd2hhdCBpcyBhZ2k%3D}}
