@@ -30,3 +30,13 @@ algo:: Unit 3 Outcome 2
 	  logseq.order-list-type:: number
 		- therefore it works for all values of $n \ge 1$
 		  logseq.order-list-type:: number
+-
+- Further Research
+  background-color:: purple
+	- Read
+		- [Mathematical induction - Wikipedia](https://en.wikipedia.org/wiki/Mathematical_induction)
+		- https://courses.cs.washington.edu/courses/cse373/15wi/lectures/lecture2.pdf
+		-
+	- Watch
+		- {{video https://www.youtube.com/watch?v=wblW_M_HVQ8}}
+		- {{video https://www.youtube.com/watch?v=t_3ACuzEe_8}}

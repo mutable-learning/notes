@@ -12,3 +12,14 @@ algo:: Unit 3 Outcome 2
 	- Proceed as you would with a direct proof to try to prove your assumption.
 	- Come across a contradiction.
 	- State that because of the contradiction, it can't be the case that the statement is false, so it must be true.
+-
+- Further Research
+  background-color:: purple
+	- Read
+		- [Proof by contradiction - Wikipedia](https://en.wikipedia.org/wiki/Proof_by_contradiction)
+		- [Proof by Contradiction | Brilliant Math & Science Wiki](https://brilliant.org/wiki/contradiction/)
+		- https://www.cs.auckland.ac.nz/software/AlgAnim/dij-proof.html
+	- Watch
+		- {{video https://www.youtube.com/watch?v=eIV2QcVxYGc}}
+		- {{video https://www.youtube.com/watch?v=jkhKPySIHgY}}
+		-
