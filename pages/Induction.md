@@ -3,7 +3,6 @@ topic:: [[Algorithm Design]]
 algo:: Unit 3 Outcome 2
 
 -
--
 - the idea is that if the previous statement is true, it follows that the next statement in the sequence is also true
 - if you want to prove that the algorithm works for any value of N you want to show that it works for  values $N_1, N_2, N_3.....N_k$
 - this implies that if it works for $N_k$ it will also work for $N_{k+1}$ which is written using notation as $N_k \implies N_{k+1}$
