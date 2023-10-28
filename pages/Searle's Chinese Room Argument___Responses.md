@@ -31,4 +31,5 @@ algo:: Unit 4 Outcome 3
 	- Read
 		- [The Chinese Room Argument (Stanford Encyclopedia of Philosophy)](https://plato.sydney.edu.au/entries/chinese-room/)
 	- Watch
+		- {{video https://www.youtube.com/watch?v=joUCnOCZkPM&pp=ygUgY2hpbmVzZSByb29tIGFyZ3VtZW50IG9iamVjdGlvbnM%3D}}
 		- {{video https://www.youtube.com/watch?v=tBE06SdgzwM}}

@@ -29,4 +29,5 @@ algo:: Unit 4 Outcome 3
 		- [Chinese room - Wikipedia](https://en.wikipedia.org/wiki/Chinese_room)
 		- [The Chinese Room Argument (Stanford Encyclopedia of Philosophy)](https://plato.sydney.edu.au/entries/chinese-room/)
 	- Watch
-		- b
+		- {{video https://www.youtube.com/watch?v=6tzjcnPsZ_w}}
+		- {{video https://www.youtube.com/watch?v=D0MD4sRHj1M&pp=ygUVY2hpbmVzZSByb29tIGFyZ3VtZW50}}
