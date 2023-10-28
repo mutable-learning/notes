@@ -17,12 +17,12 @@ algo:: Unit 4 Outcome 3
 	- the data points are now linearly separable in the three-dimensional space
 		- we can draw a plane that will perfectly separate the two classes of data
 	- the SVM can now be used to classify the data points in the three-dimensional space
-	- itwill find the plane that has the largest margin between the two classes of data
+	- it will find the plane that has the largest margin between the two classes of data
 - other examples of kernel functions are
 	- Gaussian kernel
 	- Radial basis function (RBF) kernel
 	- Sigmoid kernel
-- the choice of kernel function depends on the specific dataset and the problem that is being solved.
+- the choice of kernel function depends on the specific dataset and the problem that is being solved
 -
 - Further Research
   background-color:: purple

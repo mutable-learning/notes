@@ -30,6 +30,7 @@
 		  query-sort-by:: page
 		  query-sort-desc:: false
 	- [[Algorithm Design]]
+	  collapsed:: true
 		- {{query (page-property :topic "Algorithm Design")}}
 		  query-properties:: [:page :topic]
 		  query-sort-by:: page
@@ -47,16 +48,17 @@
 		  query-sort-desc:: false
 		  query-properties:: [:page :topic]
 	- [[Computer Science]]
+	  collapsed:: true
 		- {{query (page-property :topic "Computer Science")}}
 		  query-sort-by:: page
 		  query-sort-desc:: false
 		  query-properties:: [:page :topic]
 	- [[Machine Learning]]
-	  collapsed:: true
 		- {{query (page-property :topic "Machine Learning")}}
 		  query-properties:: [:page :topic]
 		  query-sort-by:: page
 		  query-sort-desc:: false
+			-
 	- Problems
 	  collapsed:: true
 		- {{query (page-property :topic "Problems")}}

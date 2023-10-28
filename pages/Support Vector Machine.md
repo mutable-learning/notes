@@ -13,9 +13,13 @@ algo:: Unit 4 Outcome 3
 	- is the distance between the hyperplane and the closest data points of each class
 - tries to find the hyperplane that has the largest margin
 	- will result in the best possible generalization performance on unseen data
-- the geometric interpretation of applying SVM binary classification to one or two dimensional data is as follows:
-	- In one dimension, the SVM classifier is a line that separates the two classes of data. The line is chosen such that the distance between the line and the closest data points of each class is maximized.
-	- In two dimensions, the SVM classifier is a plane that separates the two classes of data. The plane is chosen such that the distance between the plane and the closest data points of each class is maximized.
+- the geometric interpretation of applying SVM binary classification to one or two dimensional data is as follows
+	- one dimension
+		- the SVM classifier is a **line** that separates the two classes of data
+		- the line is chosen such that the distance between the line and the closest data points of each class is maximized
+	- two dimensions
+		- the SVM classifier is a **plane** that separates the two classes of data
+		- the plane is chosen such that the distance between the plane and the closest data points of each class is maximized
 - the optimization objectives for training an SVM binary classifier are
 	- to maximize the ((6530fd93-3af6-420a-a14d-543c68201de5)) between the two classes
 		- the larger the margin, the better the generalization performance of the SVM classifier
