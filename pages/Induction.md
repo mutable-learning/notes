@@ -1,5 +1,5 @@
 tags:: Algorithmics, Proof
-topic:: Algorithm Correctness
+topic:: [[Algorithm Design]]
 algo:: Unit 3 Outcome 2
 
 -
