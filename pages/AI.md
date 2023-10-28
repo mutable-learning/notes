@@ -22,4 +22,4 @@ algo:: Unit 4 Outcome 3
 	- Read
 		- [Artificial intelligence - Wikipedia](https://en.wikipedia.org/wiki/Artificial_intelligence)
 	- Watch
-		- b
+		- {{video https://www.youtube.com/watch?v=VNz3KGoAhG4&pp=ygULdHlwZXMgb2YgYWk%3D}}
