@@ -11,7 +11,7 @@ algo:: Unit 4 Outcome 3
 		- it is true that there is no algorithm that can correctly determine, for any arbitrary program, whether the program will halt
 		- but this statement cannot be proven
 - was first posed by Alan Turing in his 1936 paper, "On Computable Numbers, with an Application to the Entscheidungsproblem"
-- One way to prove this is by using a contradiction
+- One way to prove this is by using a [[Contradiction]]
 	- suppose there exists a [[Turing Machine]] $H$ that can solve the halting problem for any program $P$ and input $I$
 	- we can construct another [[Turing machine]] $D$ that uses $H$ to decide the opposite of what $H$ decides
 		- if $H$ says $P$ halts on $I$, then $D$ loops forever
