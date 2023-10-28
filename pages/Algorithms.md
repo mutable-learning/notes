@@ -1,3 +1,5 @@
+alias:: Algorithm
+
 - a step-by-step procedure for solving a problem
 - a set of instructions that can be followed to complete a task or achieve a goal by a computer or a human
 - a good algorithm should be:
