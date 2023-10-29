@@ -17,8 +17,8 @@ Currently the notes are aimed at two subjects:
 
 1. Instell [Logseq](https://logseq.com/downloads) on your machine
 2. Either
-  1. Clone the main branch of this repo
-  2. Download the latest release file
+   1. Clone the main branch of this repo
+   2. Download the latest release file
 3. Run logseq on your machine and configure it to your liking
 4. Open a new graph from the top of the left toolbar and select the downloaded folder
 5. Set the home page in Logseq
