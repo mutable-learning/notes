@@ -54,6 +54,7 @@
 		  query-sort-desc:: false
 		  query-properties:: [:page :topic]
 	- [[Machine Learning]]
+	  collapsed:: true
 		- {{query (page-property :topic "Machine Learning")}}
 		  query-properties:: [:page :topic]
 		  query-sort-by:: page
