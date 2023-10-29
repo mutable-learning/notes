@@ -26,6 +26,7 @@ algo:: Unit 4 Outcome 3
 - Further Research
   background-color:: purple
 	- Read
-		- a
+		- [Perceptron - Wikipedia](https://en.wikipedia.org/wiki/Perceptron)
 	- Watch
-		- b
+		- {{video https://www.youtube.com/watch?v=7YaqzpitBXw}}
+		- {{video https://www.youtube.com/watch?v=AZEfmoWBXwg}}

@@ -22,6 +22,6 @@ algo:: Unit 4 Outcome3
 - Further Research
   background-color:: purple
 	- Read
-		- a
+		- [Feedforward neural network - Wikipedia](https://en.wikipedia.org/wiki/Feedforward_neural_network)
 	- Watch
-		- b
+		- {{video https://www.youtube.com/watch?v=sNTtUV9yE_M}}

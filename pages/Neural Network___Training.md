@@ -42,6 +42,8 @@ algo:: Unit 4 Outcome 3
 - Further Research
   background-color:: purple
 	- Read
-		- a
+		- [Training Neural Networks for Beginners](https://learnopencv.com/how-to-train-neural-networks-for-beginners/#Gradient-Descent-(Optimization))
+		- [Training, validation, and test data sets - Wikipedia](https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets)
 	- Watch
-		- b
+		- {{video https://www.youtube.com/watch?v=sZAlS3_dnk0}}
+		- {{video https://www.youtube.com/watch?v=lgKrup5oi_A}}

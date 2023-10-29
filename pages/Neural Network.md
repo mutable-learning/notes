@@ -3,7 +3,7 @@ topic:: [[Machine Learning]]
 algo:: Unit 4 Outcome 3
 
 -
-- consist of input layers, hidden layers and an output layer that contain neurons in each layer and edges between the nodes
+- consist of input layers, hidden layers and an output layer that contain neurons in each layer and synapses between the neurons
 - these layers are created using a [[Perceptron]] structure
 - use a process of [[Forward Propagation]] to feed input data through the network in one direction to generate output
 - require [[Neural Network/Training]] to understand how the network needs to be adjusted to help predict accurate output
@@ -37,6 +37,8 @@ algo:: Unit 4 Outcome 3
 - Further Research
   background-color:: purple
 	- Read
-		- a
+		- [Deep Learning Neural Networks Explained in Plain English](https://www.freecodecamp.org/news/deep-learning-neural-networks-explained-in-plain-english/)
+		- [Neural network - Wikipedia](https://en.wikipedia.org/wiki/Neural_network)
 	- Watch
-		- b
+		- {{video https://www.youtube.com/watch?v=bfmFfD2RIcg}}
+		- {{video https://www.youtube.com/watch?v=aircAruvnKk&pp=ygUYbmV1cmFsIG5ldHdvcmsgZXhwbGFpbmVk}}
