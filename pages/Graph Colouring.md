@@ -1,6 +1,6 @@
 tags:: Algorithmics
 alias:: Graph Coloring
-topic:: Problems
+topic:: [[Problems]]
 algo:: Unit 4 Outcome 2
 
 -

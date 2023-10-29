@@ -1,5 +1,5 @@
 tags:: Algorithmics
-topic:: Problems
+topic:: [[Problems]]
 algo:: Unit 4 Outcome 2
 
 -
