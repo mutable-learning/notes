@@ -417,7 +417,7 @@
 <<<<<<< HEAD
  :graph/settings {:orphan-pages? true
  :excluded-pages? false}
- :feature/enable-journals? false
+ :feature/enable-journals? true
  :feature/enable-whiteboards? false
  :default-home {:page "Algorithmics"}}
 =======
