@@ -15,7 +15,7 @@ Currently the notes are aimed at two subjects:
 
 ## Getting started
 
-1. Instell [Logseq](https://logseq.com/downloads) on your machine
+1. Install [Logseq](https://logseq.com/downloads) on your machine
 2. Either
    1. Clone the main branch of this repo
    2. Download the latest release file
