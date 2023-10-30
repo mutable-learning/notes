@@ -1,4 +1,5 @@
 - [[Algorithmics]]
+  collapsed:: true
 	- [[Abstract Data Types]]
 	  collapsed:: true
 		- {{query (page-property :topic "Abstract Data Types")}}
@@ -67,14 +68,32 @@
 		  query-sort-desc:: false
 		  query-properties:: [:page :topic]
 - [[Software Development]]
-	- Problem-Solving Approach
-	- Programming Concepts
-	- Project Management
-	- Analysis Requirements
-	- Design Skills
-	- Privacy Legislation
-	- Development Techniques
-	- Evaluation Methods
+	- [[Problem-solving Approach]]
+	  collapsed:: true
+		- {{query (page-property :topic "Problem-solving Approach")}}
+		  query-properties:: [:page :topic]
+		  collapsed:: true
+	- [[Programming Concepts]]
+	  collapsed:: true
+		- {{query (page-property :topic "Programming Concepts")}}
+		  query-properties:: [:page :topic]
+	- [[Project Management]]
+	  collapsed:: true
+		- {{query (page-property :topic "Project Management")}}
+		  query-properties:: [:page :topic]
+	- [[Analysis Actions]]
+	  collapsed:: true
+		- {{query (page-property :topic "Analysis Actions")}}
+		  query-properties:: [:page :topic]
+	- [[Design Skills]]
+	  collapsed:: true
+		- {{query (page-property :topic "Design Skills")}}
+		  query-properties:: [:page :topic]
+	- [[Privacy Legislation]]
+		- {{query (page-property :topic "Privacy Legislation")}}
+		  query-properties:: [:page :topic]
+	- [[Development Techniques]]
+	- [[Evaluation Methods]]
 	- Security Strategies
 	- Risk Management
 	- Ethical and Legal Considerations
