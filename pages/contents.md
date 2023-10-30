@@ -96,5 +96,14 @@
 	- [[Development Techniques]]
 	- [[Evaluation Methods]]
 	- [[Security Strategies]]
+	  collapsed:: true
+		- {{query (page-property :topic "Security Strategies")}}
+		  query-properties:: [:page :topic]
 	- [[Risk Management]]
+	  collapsed:: true
+		- {{query (page-property :topic "Risk Management")}}
+		  query-properties:: [:page :topic]
 	- [[Ethical and Legal Considerations]]
+	  collapsed:: true
+		- {{query (page-property :topic "Ethical and Legal Considerations")}}
+		  query-properties:: [:page]
