@@ -1,4 +1,4 @@
-tags:: Algorithmics, SoftDev
+tags:: Algorithmics, Software Development
 topic:: Pseudocode
 algo:: Unit 3 Outcome 2
 softdev:: Unit 3

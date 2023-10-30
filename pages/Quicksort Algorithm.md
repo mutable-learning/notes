@@ -1,4 +1,4 @@
-tags:: Algorithmics, SoftDev
+tags:: Algorithmics, Software Development
 alias:: Quicksort
 topic:: [[Advanced Algorithm Design]]
 algo:: Unit 4 Outcome 2

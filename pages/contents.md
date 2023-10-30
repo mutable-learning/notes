@@ -66,4 +66,15 @@
 		  query-sort-by:: page
 		  query-sort-desc:: false
 		  query-properties:: [:page :topic]
-	-
+- [[Software Development]]
+	- Problem-Solving Approach
+	- Programming Concepts
+	- Project Management
+	- Analysis Requirements
+	- Design Skills
+	- Privacy Legislation
+	- Development Techniques
+	- Evaluation Methods
+	- Security Strategies
+	- Risk Management
+	- Ethical and Legal Considerations
