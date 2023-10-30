@@ -4,7 +4,8 @@ softdev:: Unit 4 Outcome 1
 
 -
 - [[Usability Testing]] and [[Documenting Test Results]]
-- updating recording project progress in the [[Project Plan]]
+- updating and recording project progress in the [[Project Plan]]
 - documenting the factors that influenced the effectiveness of the development model ([Agile]([[Agile Model]]), [Spiral]([[Spiral Model]]) or [Waterfall]([[Waterfall Model]]))
 - evaluating the solution using the [[Evaluation Criteria]] to determine if it is an [[Effective Solution]] and an [[Efficient Solution]]
+- assessing the [[Project Plan]] for an overall evaluation of the project and how it shaped the final solution
 -
