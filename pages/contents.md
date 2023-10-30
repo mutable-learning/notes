@@ -95,6 +95,6 @@
 		  query-properties:: [:page :topic]
 	- [[Development Techniques]]
 	- [[Evaluation Methods]]
-	- Security Strategies
-	- Risk Management
-	- Ethical and Legal Considerations
+	- [[Security Strategies]]
+	- [[Risk Management]]
+	- [[Ethical and Legal Considerations]]
