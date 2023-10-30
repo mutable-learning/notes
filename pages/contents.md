@@ -90,6 +90,7 @@
 		- {{query (page-property :topic "Design Skills")}}
 		  query-properties:: [:page :topic]
 	- [[Privacy Legislation]]
+	  collapsed:: true
 		- {{query (page-property :topic "Privacy Legislation")}}
 		  query-properties:: [:page :topic]
 	- [[Development Techniques]]
