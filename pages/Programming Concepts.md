@@ -3,15 +3,15 @@ topic:: Programming Concepts
 softdev:: Unit 3 Outcome 1
 
 -
-- what are the core [[Data Type]] in programming
-- how can [[Data Structure]] be used in code
-- what are the differences between [[XML files]], [[Text files]] and [[CSV files]]
-- why use [[Naming Conventions]] for solution elements
+- what is a core [[Data Type]] in programming
+- how can a [[Data Structure]] be used in code
+- what are the differences between an [[XML file]], a [[Text file]] and a [[CSV file]]
+- why use a [[Naming Convention]] for solution elements
 - [[Programming Language Features]] and how they differ
 - [[Linear Search]] and [[Binary Search]] [[Algorithms]]
 - [[Selection Sort]] and [[Quicksort]] [[Algorithms]]
 - ensuring input data is validated using [[Validation Techniques]]
-- constructing [[Test Data]] and [[Trace Tables]] to check code meets specifications
+- constructing [[Test Data]] and a [[Trace Table]] to check code meets specifications
 - adding [[Internal Documentation]] to software that is meaningful and is there for a purpose
 -
 - Further Research
