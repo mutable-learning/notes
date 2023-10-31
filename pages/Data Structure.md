@@ -8,5 +8,6 @@ softdev:: Unit 3 Outcome 1
 	- [[Data Structure/Array]]
 	- [[Data Structure/Associative Array]]
 	- [[Data Structure/Queue]]
-	-
+	- [[Data Structure/Stack]]
+	- [[Data Structure/Linked List]]
 		-
