@@ -1,0 +1,12 @@
+- Welcome to the notes for students undertaking their Victorian Certificate of Education and studying subjects in Digital Technologies
+- These notes cover content for the following subjects:
+	- Algorithmics HESS Units 3 & 4 [(study design)](https://www.vcaa.vic.edu.au/Documents/vce/algorithmics/2023AlgorithmicsSD.docx)
+	- Applied Computing: Software Development Units 3 & 4 [(study design)](https://www.vcaa.vic.edu.au/Documents/vce/computing/2020AppliedComputingSD.docx)
+- Each subject's notes are separated into topic areas. You can access the [[Contents]] page using the right sidebar (keyboard shortcut: t r) quickly to jump to any topic in a subject
+- You can expand topics in the [[Contents]] page by clicking on the triangle at the begging of the line, left of the dot point
+- Each subject also has a page that acts as an index of all the pages in the subject with notes (some pages have their own subpages that may not be included). These are good places to start and you can access these from these links:
+	- [[Algorithmics]]
+	- [[Software Development]]
+- If you can't find a topic, use the search option (keyboard shortcut: Ctrl+k)
+-
+- If you find an error, a broken link, or have a suggestion, [submit an issue](https://github.com/mutable-learning/notes/issues) to the GitHub repo. Contributions are very welcome!

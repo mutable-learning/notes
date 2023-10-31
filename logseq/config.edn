@@ -419,7 +419,7 @@
  :excluded-pages? false}
  :feature/enable-journals? false
  :feature/enable-whiteboards? false
- :default-home {:page "Algorithmics"}}
+ :default-home {:page "Homepage"}}
 =======
  :graph/settings {:orphan-pages? false
  :excluded-pages? false}

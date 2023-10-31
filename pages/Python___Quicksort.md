@@ -1,4 +1,4 @@
-tags:: Algorithmics, SoftDev, Python, Code Example
+tags:: Algorithmics, Software Development, Python, Code Example
 topic:: Python Implementations
 algo:: Unit 4 Outcome 2
 
