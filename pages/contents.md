@@ -75,9 +75,10 @@
 		  query-sort-by:: page
 		  query-sort-desc:: false
 	- [[Programming Concepts]]
-	  collapsed:: true
 		- {{query (page-property :topic "Programming Concepts")}}
 		  query-properties:: [:page :topic]
+		  query-sort-by:: page
+		  query-sort-desc:: false
 	- [[Project Management]]
 	  collapsed:: true
 		- {{query (page-property :topic "Project Management")}}
