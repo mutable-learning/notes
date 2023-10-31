@@ -1,4 +1,4 @@
-- Welcome to the notes for students studying Victorian Certificate of Education subjects in Digital Technologies
+- Welcome to the notes for students undertaking their Victorian Certificate of Education and studying subjects in Digital Technologies
 - These notes cover content for the following subjects:
 	- Algorithmics HESS Units 3 & 4 [(study design)](https://www.vcaa.vic.edu.au/Documents/vce/algorithmics/2023AlgorithmicsSD.docx)
 	- Applied Computing: Software Development Units 3 & 4 [(study design)](https://www.vcaa.vic.edu.au/Documents/vce/computing/2020AppliedComputingSD.docx)
