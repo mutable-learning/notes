@@ -69,10 +69,8 @@
 		  query-properties:: [:page :topic]
 - [[Software Development]]
 	- [[Problem-solving Approach]]
-	  collapsed:: true
 		- {{query (page-property :topic "Problem-solving Approach")}}
 		  query-properties:: [:page :topic]
-		  collapsed:: true
 	- [[Programming Concepts]]
 	  collapsed:: true
 		- {{query (page-property :topic "Programming Concepts")}}
@@ -95,6 +93,9 @@
 		  query-properties:: [:page :topic]
 	- [[Development Techniques]]
 	- [[Evaluation Methods]]
+	  collapsed:: true
+		- {{query (page-property :topic "Evaluation Methods")}}
+		  query-properties:: [:page :topic]
 	- [[Security Strategies]]
 	  collapsed:: true
 		- {{query (page-property :topic "Security Strategies")}}
