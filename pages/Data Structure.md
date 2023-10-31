@@ -10,4 +10,6 @@ softdev:: Unit 3 Outcome 1
 	- [[Data Structure/Queue]]
 	- [[Data Structure/Stack]]
 	- [[Data Structure/Linked List]]
+	- [[Data Structure/Record]]
+	- [[Data Structure/Class]]
 		-
