@@ -69,6 +69,7 @@
 		  query-properties:: [:page :topic]
 - [[Software Development]]
 	- [[Problem-solving Approach]]
+	  collapsed:: true
 		- {{query (page-property :topic "Problem-solving Approach")}}
 		  query-properties:: [:page :topic]
 		  query-sort-by:: page

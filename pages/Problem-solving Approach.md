@@ -5,7 +5,7 @@ softdev:: Unit 3 Outcome 1
 -
 - understand and implement the [[Problem-solving Methodology]]
 - work through the [[Analysis Stage]], [[Design Stage]], [[Development Stage]] and [[Evaluation Stage]] to create a problem solution
-- working with a [[Design Brief]] tand other methods to document a problem, need or opportunity
+- working with a [[Design Brief]] and other methods to document a problem, need or opportunity
 - determine the [[Solution Requirements]], [[Solution Constraints]] and [[Solution Scope]]
 - examine and understand how tools such as a [[Data Dictionary]], a [[Mock-up]],  [[Object Descriptions]] and [[Pseudocode]] represent designs
 -
