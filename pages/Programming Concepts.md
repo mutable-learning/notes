@@ -3,8 +3,8 @@ topic:: Programming Concepts
 softdev:: Unit 3 Outcome 1
 
 -
-- what are the core [[Data Types]] in programming
-- how can [[Data Structures]] be used in code
+- what are the core [[Data Type]] in programming
+- how can [[Data Structure]] be used in code
 - what are the differences between [[XML files]], [[Text files]] and [[CSV files]]
 - why use [[Naming Conventions]] for solution elements
 - [[Programming Language Features]] and how they differ

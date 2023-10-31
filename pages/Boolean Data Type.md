@@ -1,5 +1,5 @@
 tags:: Software Development
-topic:: [[Data Types]]
+topic:: [[Data Type]]
 softdev:: Unit 3 Outcome 1
 
 -
