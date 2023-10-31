@@ -7,4 +7,6 @@ softdev:: Unit 3 Outcome 1
 - allow for a collection of data types to be stored
 	- [[Data Structure/Array]]
 	- [[Data Structure/Associative Array]]
+	- [[Data Structure/Queue]]
+	-
 		-
