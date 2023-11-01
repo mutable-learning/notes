@@ -3,7 +3,7 @@ topic:: [[Software Errors]]
 softdev:: Unit 3 Outcome 1
 
 -
-- Boundary value analysis (BVA)
+- Boundary Value Analysis (BVA)
 	- a software testing technique that tests the boundaries of a software program's input and output values
 	- based on the principle that software programs are most likely to fail at the edges of their input and output ranges
 		- because the code that handles these values is often the most complex and difficult to test
