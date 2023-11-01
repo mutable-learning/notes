@@ -8,6 +8,7 @@ softdev:: Unit 3 Outcome 1
 	- about each of the classes, methods, objects, algorithms, etc. within it
 	- combined with using a [[Naming Convention]] to include well-named variables to create understandable and maintainable code
 - has no impact on the compilation or running of the code
+	- extensive documentation may increase storage size for source code, but is usually negligable
 - exists only to provide context and important information about the code
 - most useful when a programmer is reading through code that they did not write themselves, or that was written in the past
 	- relying on memory alone or on interpreting complex algorithms to understand what code is doing is hard work
