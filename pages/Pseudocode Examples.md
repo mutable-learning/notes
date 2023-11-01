@@ -27,6 +27,7 @@ softdev:: Unit 3
 	  End
 	  ```
 - Iteration
+  id:: 6540dff6-43ad-4642-80ce-9ed133538ba2
 	- to repeat parts of an algorithm a number of times, use iteration and [[Conditional Expressions]]
 	- run the lines
 		- a number of times with a For loop
@@ -51,6 +52,7 @@ softdev:: Unit 3
 	  End
 	  ```
 - Conditionals
+  id:: 6540dff6-c83f-4ca5-893e-e8e22a996848
 	- use [[Conditional Expressions]] to test for conditions and run different *branches* of algorithms based on the results of the expressions
 		- use If, Else If and Else conditions
 		- use AND, OR and NOT in expressions
@@ -64,6 +66,25 @@ softdev:: Unit 3
 		      Else
 		      	Print x is small
 		      End If
+		  End
+		  ```
+		- ```
+		  Begin
+		  	x <-- Create a random number between 1 and 5
+		      Switch x
+		          Case 1
+		          	Print "average"
+		          Case 2
+		          	Print "good"
+		          Case 3
+		          	print "excellent"
+		          Case 4
+		          	Print "outstanding"
+		          Case 5
+		          	Print "five out of five"
+		          Default
+		          	Print "not a number between 1 and 5"
+		  	End Switch
 		  End
 		  ```
 - Functions

@@ -23,7 +23,7 @@ algo:: Unit 3 Outcome 2
 		- $NOT\ P$ is true if $P$ is false
 - ![Latex commands for Logic and Set notation](../assets/logic_set_notation.png)
 - use parentheses to group parts of an expression together to make it more understandable
-- use a truth table to help understand the result of more complex expression involving multiple logical statements
+- use a [[Truth Table]] to help understand the result of more complex expression involving multiple logical statements
 -
 - Further Research
   background-color:: purple

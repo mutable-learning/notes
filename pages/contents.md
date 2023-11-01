@@ -68,7 +68,6 @@
 		  query-sort-desc:: false
 		  query-properties:: [:page :topic]
 - [[Software Development]]
-  collapsed:: true
 	- [[Problem-solving Approach]]
 	  collapsed:: true
 		- {{query (page-property :topic "Problem-solving Approach")}}
@@ -97,6 +96,11 @@
 		- {{query (page-property :topic "Privacy Legislation")}}
 		  query-properties:: [:page :topic]
 	- [[Development Techniques]]
+	  collapsed:: true
+		- {{query (page-property :topic "Development Techniques")}}
+		  query-properties:: [:page :topic]
+		  query-sort-by:: page
+		  query-sort-desc:: false
 	- [[Evaluation Methods]]
 	  collapsed:: true
 		- {{query (page-property :topic "Evaluation Methods")}}
