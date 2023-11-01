@@ -18,6 +18,7 @@ softdev:: Unit 3 Outcome 1
 	- consider how inputs from a user are handled by the programming language
 		- by default, all inputs in Python are treated as strings, even if they only contain numeric data
 - Range Check
+  id:: 6542d358-8f3e-4d79-a58e-6f78d0d070a6
 	- checks that data are within *acceptable limits* or come from a range of *acceptable values*
 		- users must enter a score between 1 and 5 (acceptable limits)
 		- the postcode must be a valid Victorian postcode (acceptable values)

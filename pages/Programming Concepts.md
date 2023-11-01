@@ -11,7 +11,7 @@ softdev:: Unit 3 Outcome 1
 - [[Linear Search]] and [[Binary Search]] [[Algorithms]]
 - [[Selection Sort]] and [[Quicksort]] [[Algorithms]]
 - ensuring input data is validated using [[Validation Techniques]]
-- constructing [[Test Data]] and a [[Trace Table]] to check code meets specifications
+- constructing [[Test Data]] and a [[Trace Table]] to check code meets specifications and reduce [[Software Errors]]
 - adding [[Internal Documentation]] to software that is meaningful and is there for a purpose
 -
 - Further Research
