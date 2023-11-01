@@ -1,0 +1,41 @@
+tags:: Software Development
+topic:: [[Programming Concepts]]
+softdev:: Unit 3 Outcome 1
+
+-
+- the notes and comments written by a programmer within the code itself
+- includes information about the program as a whole, including
+	- about each of the classes, methods, objects, algorithms, etc. within it
+	- combined with using a [[Naming Convention]] to include well-named variables to create understandable and maintainable code
+- has no impact on the compilation or running of the code
+- exists only to provide context and important information about the code
+- most useful when a programmer is reading through code that they did not write themselves, or that was written in the past
+	- relying on memory alone or on interpreting complex algorithms to understand what code is doing is hard work
+- saves time
+	- reduces developer effort
+	- more efficiently creating and maintaining software
+- good Internal Documentation practices
+	- write meaningful internal documentation for your code
+		- help you and other developers understand how the code works
+	- include
+		- file header comments
+		- documentation of classes and methods
+		- function and subroutine comments
+		- single-line and multi-line comments explaining why code is written this way such as
+			- to work with another system
+			- legal requirement constraint
+			- things that aren't immediately obvious just by looking at the code (background)
+		- information about testing
+		- possibly add extra information on upgrades, changes or enhancements made
+			- [[Version Control]] will also house documentation related to code change
+	- clear and concise
+		- avoid jargon or technical terms that are not specific to the software domain
+	- be specific
+		- explain less about what code does and more about why it was written this way
+	- be consistent
+		- use the same style and format for your internal documentation throughout your code
+			- follow standard documentation conventions for the programming language
+	- keep it up to date
+		- if the code changes, the documentation must be checked and updated as well, if needed
+		-
+		-
