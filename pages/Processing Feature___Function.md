@@ -25,10 +25,11 @@ softdev:: Unit 3 Outcome 1
 - Procedure
 	- a subroutine that doesn't return a value when executed
 - Method
+  id:: 65421482-6808-45d6-a8c2-6cf29d278c75
 	- a function or procedure that is part of an object ( belongs to a [[Processing Feature/Class]] )
 	- Class Method
 		- is shared by all objects of the same class
-		- can be called without an instance object, but using the generic class type object
+		- can be called without an instance object by using the generic class type object
 	- Instance Method
 		- is defined in the class type
 		- can only be called on an object instance of the class
