@@ -16,9 +16,9 @@ softdev:: Unit 3 Outcome 1
 	- a function or procedure that is part of an object ( belongs to a [[Processing Feature/Class]] )
 	- Class Method
 		- is shared by all objects of the same class
-		- can be called without an instance of an object, but by the generic class type object
+		- can be called without an instance object, but using the generic class type object
 	- Instance Method
-		- is defined in the class
+		- is defined in the class type
 		- can only be called on an object instance of the class
 - {{embed ((6540dff6-8035-491b-a86d-536b2812bfe7))}}
 	-
