@@ -88,6 +88,7 @@
 		- {{query (page-property :topic "Analysis Actions")}}
 		  query-properties:: [:page :topic]
 	- [[Design Skills]]
+	  collapsed:: true
 		- {{query (page-property :topic "Design Skills")}}
 		  query-properties:: [:page :topic]
 	- [[Privacy Legislation]]

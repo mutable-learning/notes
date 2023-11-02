@@ -3,6 +3,8 @@ topic:: Project Management
 softdev:: Unit 3 Outcome 2
 
 -
+- the process of planning, organising and monitoring a project in order to ensure it is completed on time, within budget and  within scope
+- poorly managed projects can be a substantial risk for an organisation, can become expensive and be disruptive
 - developing a [[Project Plan]] and understanding how to monitor and modify this over the life of the project
 - creating a [[Gantt Chart]] to mode a project timeline and make visible important information including the [[Project Tasks]], [[Project Milestones]] and the [[Critical Path]]
 -
