@@ -13,8 +13,8 @@ softdev:: Unit 3 Outcome 2
 	- any other important details
 - typically written in natural language, but can also be written in UML
 - can be used to describe simple and complex objects
-- For example, an object description for a 'Car' object might include information about
+- an object description for a 'Car' object in a racing sim might include information about
 	- the car's properties
 		- make, model, year, color, and engine size
-	- also include information about the car's methods,
+	- also include information about the car's methods
 		- drive(), brake(), and turn()
