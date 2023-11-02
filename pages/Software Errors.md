@@ -23,6 +23,7 @@ softdev:: Unit 3 Outcome 1
 	- only occurs when certain conditions are met such as unexpected input
 	- harder to find
 - Logic Error
+  id:: 6542ddd0-2ff2-47d2-8719-c312231b6c83
 	- software will compile and run
 	- software does not work as expected or returns unexpected output
 		- the algorithm is not correct
