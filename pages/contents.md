@@ -1,5 +1,4 @@
 - [[Algorithmics]]
-  collapsed:: true
 	- [[Abstract Data Types]]
 	  collapsed:: true
 		- {{query (page-property :topic "Abstract Data Types")}}
@@ -75,6 +74,7 @@
 		  query-sort-by:: page
 		  query-sort-desc:: false
 	- [[Programming Concepts]]
+	  collapsed:: true
 		- {{query (page-property :topic "Programming Concepts")}}
 		  query-properties:: [:page :topic]
 		  query-sort-by:: page
@@ -96,6 +96,11 @@
 		- {{query (page-property :topic "Privacy Legislation")}}
 		  query-properties:: [:page :topic]
 	- [[Development Techniques]]
+	  collapsed:: true
+		- {{query (page-property :topic "Development Techniques")}}
+		  query-properties:: [:page :topic]
+		  query-sort-by:: page
+		  query-sort-desc:: false
 	- [[Evaluation Methods]]
 	  collapsed:: true
 		- {{query (page-property :topic "Evaluation Methods")}}

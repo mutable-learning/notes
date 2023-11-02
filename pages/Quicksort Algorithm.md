@@ -32,6 +32,34 @@ algo:: Unit 4 Outcome 2
 	- best case:  $O(n \log n)$
 	- average case: $O(n \log n)$
 	- worst case: $\Theta(n^2)$
+- ```
+  Algorithm Quicksort(array, low, high):
+  	If low < high Then
+  		pivot <-- Partition(array, low, high)
+      	Quicksort(array, low, pivot - 1)
+      	Quicksort(array, pivot + 1, high)
+     	End If
+  End
+  
+  Algorithm Partition(array, low, high)
+  	pivot = array[high]
+  	i = low - 1
+  	For j <-- low to high Do
+  		If array[j] <= pivot Then
+  			i <-- i + 1
+  			Swap(array[i], array[j])
+  		End If
+      End For
+  	Swap(array[i + 1], array[high])
+  	Return i + 1
+  
+  	Function Swap(x, y)
+      	temp <-- x
+      	x <-- y
+      	y <-- temp
+      End Function
+  End
+  ```
 -
 - Further Research
   background-color:: purple
