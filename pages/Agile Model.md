@@ -43,3 +43,4 @@ softdev:: Unit 3 Outcome 2
 		- can make it more difficult to track progress and identify potential problems
 	- not suitable for all projects
 		- may not be well-suited for projects where the requirements are very well-defined or for projects where there is a high degree of regulatory oversight
+	- ![Agile Model](https://www.bluemidnight.com/wp-content/uploads/2019/04/agile-software-development-cycle-1.png)

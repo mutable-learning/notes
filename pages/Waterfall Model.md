@@ -33,3 +33,4 @@ softdev:: Unit 3 Outcome 2
 	- unsuitable for complex and changing projects
 		- is not well-suited for complex or rapidly changing projects
 		- it can be difficult to accurately define all of the requirements at the beginning of the project
+- ![Waterfall Model](https://www.ishir.com/wp-content/uploads/2021/07/waterfall-scaled.jpg)
