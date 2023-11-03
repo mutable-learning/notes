@@ -6,6 +6,9 @@ softdev:: Unit 3 Outcome 2
 - offer a number of advantages over the [[Waterfall Model]], particularly for complex and changing projects
 - prefers flexibility, communication, collaboration and simplicity compared to the [[Waterfall Model]]
 - two common approaches of agile development are *Scrum* and *Kanban*
+- develop software in a series of iterations, or *sprints*, with each sprint delivering a working product increment
+- involve the customer throughout the development process
+- are adaptive to change, allowing teams to quickly adjust the product as needed
 - Agile Model advantages
 	- flexible and adaptable
 		- are designed to be flexible and adaptable
@@ -13,9 +16,11 @@ softdev:: Unit 3 Outcome 2
 	- customer involvement
 		- involve the customer throughout the development process
 		- helps to ensure that the product meets their needs
+		- leads to increased customer satisfaction
 	- frequent delivery of working software
 		- deliver working software to the customer on a regular basis
 		- allows the customer to provide feedback and make changes early on
+		- delivers value to the customer faster
 	- improved team morale
 		- are often more enjoyable for team members
 		- allow developers to work on smaller, more manageable tasks
