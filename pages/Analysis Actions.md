@@ -9,9 +9,8 @@ softdev:: Unit 3 Outcome 2
 - examine different tools to enable [[Data Collection]]
 - decide what will be and won't be a part of the [[Solution Scope]]
 - understand the difference between [[Functional Requirements]] and [[Non-functional Requirements]] that will make up the [[Solution Requirements]]
-- determine what is and is not part of the [[Solution Scope]]
 - depict interfaces between solutions, users and networks using tools such as a [[Use Case Diagram]], a [[Data Flow Diagram]] and a [[Context Diagram]]
-- select a development approach model from choices including the [[Waterfall Model]], [[Agile Model]] and [[Spiral Model]]
+- select a [[Development Model]] from choices including the [[Waterfall Model]], [[Agile Model]] and [[Spiral Model]]
 -
 - Further Research
   background-color:: purple
