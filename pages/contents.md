@@ -1,5 +1,4 @@
 - [[Algorithmics]]
-  collapsed:: true
 	- [[Abstract Data Types]]
 	  collapsed:: true
 		- {{query (page-property :topic "Abstract Data Types")}}
