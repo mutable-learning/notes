@@ -13,4 +13,3 @@ softdev:: Unit 3 Outcome 2
 	- designs can be added as columns
 		- the designs that meet the criteria are easily visible
 	- the solution can be evaluated against these again after it has been in use for a period of time
--
