@@ -8,6 +8,7 @@ softdev:: Unit 3 Outcome 2
 	- based on the user's prior experiences and expectations
 		- a button affords being clicked, a text field affords being typed in
 - an important part of user-friendly software design
+- can be thought of as how intuitive the solution is to use
 - Affordance principles
 	- Visible
 		- using clear and concise labels, as well as visual cues such as color and shape to indicate how interface elements can be used
