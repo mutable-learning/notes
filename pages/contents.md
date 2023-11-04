@@ -84,6 +84,7 @@
 		- {{query (page-property :topic "Project Management")}}
 		  query-properties:: [:page :topic]
 	- [[Analysis Actions]]
+	  collapsed:: true
 		- {{query (page-property :topic "Analysis Actions")}}
 		  query-properties:: [:page :topic]
 		  query-sort-by:: page
