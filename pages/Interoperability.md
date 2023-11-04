@@ -8,7 +8,7 @@ softdev:: Unit 3 Outcome 2
 	- such as enterprise systems, cloud services, and mobile devices
 - different levels of interoperability
 	- Data interoperability
-		- systems exchange data in a format that can be understood by both systems
+		- systems exchange data in a format that can be understood by both systems such as with [[XML file]], [[CSV file]] or [[Text file]] formats
 	- Functional interoperability
 		- systems work together to perform a specific task
 	- Behavioral interoperability
