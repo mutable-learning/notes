@@ -14,3 +14,5 @@ softdev:: Unit 3 Outcome 2
 	- [[Security]]
 	- [[Usability]]
 - other factors can relate to areas such as Reliability, Maintainability, Scalability and more
+- these factors are often interrelated and the influence or importance of them can change over time
+- designs need to be flexible and able to adapt as the design factors' influence changes
