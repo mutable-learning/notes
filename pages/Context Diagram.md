@@ -12,17 +12,20 @@ softdev:: Unit 3 Outcome 2
 	- show limited detail, focussed only on data flowing into and out from the system
 - Context Diagram Components
 	- Process
+	  id:: 654594d6-e82f-40c5-a48c-92e493238fa6
 		- is an abstract representation of the entire system
 		- in most cases only one process will display in a context diagram
 		- drawn as a circle with the name of the system inside
 	- Entity
+	  id:: 654595db-8475-4cc4-916f-98b37a4f423b
 		- can be one or more entities shown
 		- are the users or external systems that interact with processes (the system)
 			- *cannot interact with other entities*
 		- drawn as a rectangle with a role label in the same manner as ((654593c7-cf55-4cb3-a175-d21da31fbc49)) in a [[UCD]]
 	- Data Flow
+	  id:: 6545970c-4d59-4796-8831-73ef8b34caf8
 		- data or a logical collection of data moving into or out from the system
-		- connect entities to the system process
+		- connect entities to a process (the system)
 			- *cannot exist between entities*
 		- drawn with a solid line connecting an entity with the system process
 			- an arrow represents the direction of the flow

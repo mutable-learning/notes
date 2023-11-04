@@ -8,6 +8,7 @@ softdev:: Unit 3 Outcome 2
 - is used to capture the functional requirements of a system and to communicate them to stakeholders
 - usually completed before any [[Context Diagram]] or [[Data Flow Diagram]] is created
 - Use Case
+  id:: 654593c7-6dc7-41eb-9f9e-1e01c35fde80
 	- describe interactions or functions a user can complete in the system
 - are created using the Unified Modelling Language (UML)
 	- a standard notation for modelling software systems
