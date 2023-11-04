@@ -93,7 +93,9 @@
 	  collapsed:: true
 		- {{query (page-property :topic "Design Skills")}}
 		  query-properties:: [:page :topic]
-	- [[Privacy Legislation]]
+		  query-sort-by:: page
+		  query-sort-desc:: false
+	- [[Legislation]]
 	  collapsed:: true
 		- {{query (page-property :topic "Privacy Legislation")}}
 		  query-properties:: [:page :topic]
