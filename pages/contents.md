@@ -90,7 +90,6 @@
 		  query-sort-by:: page
 		  query-sort-desc:: false
 	- [[Design Skills]]
-	  collapsed:: true
 		- {{query (page-property :topic "Design Skills")}}
 		  query-properties:: [:page :topic]
 		  query-sort-by:: page
