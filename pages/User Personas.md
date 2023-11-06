@@ -19,3 +19,10 @@ softdev:: Unit 3 Outcome 2
 		- what the user wants to achieve by using this solution
 	- Pain points
 		- frustrations or problems the user has with a product or service
+-
+- Further Research
+  background-color:: purple
+	- Read
+		- [The Complete Guide to User Personas and How They Can Help Your Marketing Strategy (With Examples) - CleverTap](https://clevertap.com/blog/user-personas/)
+	- Watch
+		- {{video https://www.youtube.com/watch?v=u44pBnAn7cM}}
