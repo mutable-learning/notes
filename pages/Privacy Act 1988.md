@@ -15,6 +15,13 @@ softdev:: Unit 4 Outcome 2
 	- must take reasonable steps to protect personal information from misuse, interference, loss, unauthorised access, modification, or disclosure
 	- must give individuals access to their personal information upon request
 	- must correct personal information that is inaccurate, out of date, incomplete, irrelevant, or misleading upon request
+- requires organisations to obtain consent before sharing health information for research purposes with some exemptions
+	- research is being conducted by an agency of the Commonwealth Government and is in the public interest
+	- research is being conducted by a research body and is approved by a Human Research Ethics Committee (HREC)
+	- health information has been de-identified
+- *requires organisations to only collect and use personal information for a lawful purpose*
+	- means that organisations must have a valid reason for sharing non-health information for research purposes
+		- an organisation might share non-health information for research purposes to improve its products or services, or to contribute to public knowledge
 - Who is affected by the Privacy Act 1988
 	- applies to organisations that
 		- have an annual turnover of more than $3 million

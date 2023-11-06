@@ -18,6 +18,10 @@ softdev:: Unit 4 Outcome 2
 			- must charge no more than a reasonable fee for doing so
 	- individuals also have a right to request that organisations correct their health information
 		- organisations must correct health information that is inaccurate, out of date, incomplete, irrelevant, or misleading within a reasonable time and without charge
+- requires organisations to obtain consent before sharing health information for research purposes with some exemptions
+	- research is being conducted by a public health body and is in the public interest
+	- research is being conducted by a research body and is approved by a Human Research Ethics Committee (HREC)
+	- health information has been de-identified
 - Who is covered by Health Records Act 2001
 	- applies to
 		- all public sector organisations in Victoria that collect or handle health information, including hospitals, health services, and government departments
