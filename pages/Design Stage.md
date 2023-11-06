@@ -20,7 +20,7 @@ softdev:: Unit 3 Outcome 2
 	- [[Pseudocode]]
 	- [[Context Diagram]]
 	- [[Data Flow Diagram]]
-- design the visual components of the solution including the [[User Interface]] and any reports or graphical representations of data
+- design the visual components of the solution including the [[User Experience]] and the [[User Interface]] and any reports or graphical representations of data
 - use tools to help explore and refine the [[Solution Design]]
 	- [[Storyboard]]
 	- [[Site Map]]
