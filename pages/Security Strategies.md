@@ -7,6 +7,7 @@ softdev:: Unit 4 Outcome 2
 - employ a wide variety of [[Software Security]] controls to maximise security
 - identify different [[Security Vulnerabilities]]
 - identifying and ensuring [[Data Integrity]] is considered and understood within the solution
+- understanding and implementing strategies and practices that enable [[Data Protection]]
 -
 - Further Research
   background-color:: purple
