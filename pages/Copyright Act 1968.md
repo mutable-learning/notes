@@ -16,9 +16,9 @@ softdev:: Unit 4 Outcome 2
 - How Copyright works
 	- the act gives copyright owners the exclusive right to reproduce, publish, communicate, and adapt their works
 		- copyright owners can control how their works are used and distributed, including securing these
-		- a license can be applied to software that allows/disallows specific activity
-			- this license can be chosen by the copyright holder
 	- owners can grant permission to others to use their works in certain ways, such as by granting a licence
+		- a license can be applied to software that allows/disallows specific activity
+			- this license is chosen by the copyright holder
 	- if someone uses a copyrighted work without permission from the copyright owner, they may be infringing copyright
 - Penalties
 	- infringement can be a civil or criminal offence
