@@ -10,3 +10,33 @@ softdev:: Unit 3 Outcome 2
 	- [[Waterfall Model]]
 	- [[Agile Model]]
 	- [[Spiral Model]]
+- there can be many things that influence the accuracy (*effectiveness*) of the solution produced using one of the above development models
+- Development Model effectiveness factors
+	- choose the *right* development model for the project
+		- carefully consider the strengths and weaknesses of each model and choose the one that best matches the needs of the project
+	- team member skills and experience
+		- working with unfamiliar technologies can cause errors and delays
+	- well-defined [[Solution Requirements]]
+		- some projects are organic, growing and expanding as new ideas and changes are considered
+		- others are rigid and defined from the start
+	- good communication and collaboration
+		- communication is important between developers and also with stakeholders
+		- making sure everyone knows what is needing to be done and helps move the project forward is vital
+	- sufficient resources
+		- time, money, tools (software and hardware)
+		- lack of resources can lead to delays and mistakes
+	- [[Risk Management]]
+		- there is always some risk in a software project
+		- how hard will it be to identify and manage this risk
+	- change management
+		- there will always be some change
+		- some models are better at adapting to change than others
+	- testing and integration
+		- finding issues early might be important or it might be better to make sure that there is no opportunity for issues to occur
+		- is it likely that changes will occur and need to be integrated often
+	- client and user involvement
+		- users should be involved during the project, but sometimes that is difficult to manage
+		- clients may also wish to be heavily involved, or almost not at all
+	- post-implementation support
+		- after a solution is delivered there may still be bugs that need fixing
+	-
