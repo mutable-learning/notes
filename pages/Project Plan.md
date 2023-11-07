@@ -24,3 +24,4 @@ softdev:: Unit 3 Outcome 2
   id:: 65431229-e586-4070-9674-a83cac1a7365
 - [[Critical Path]]
   id:: 654314d5-56c3-48ce-9334-b54132510490
+- during a project it is important to also be [[Recording Project Progress]]
