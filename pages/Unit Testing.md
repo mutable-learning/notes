@@ -16,4 +16,20 @@ softdev:: Unit 4 Outcome 1
 		- can be run over and over again as needed, especially when code changes are made
 	- tests are automated
 		- can be run by a process making it possible to run a large number of unit tests quickly and easily
+- Unit Testing benefits
+	- improved code quality
+		- bugs are found and fixed early
+	- reduced costs
+		- preventing problems from being introduced is efficient
+	- increased confidence
+		- evidence is provided that code works, and can be checked at any time needed
+	- faster development
+		- makes it easier to add new features as you can test to make sure bugs are not introduced and features work as expected
 -
+- Further Research
+  background-color:: purple
+	- Read
+		- [Unit testing - Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
+	- Watch
+		- {{video https://www.youtube.com/watch?v=3kzHmaeozDI}}
+		- {{video https://www.youtube.com/watch?v=1Lfv5tUGsn8}}
