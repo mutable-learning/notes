@@ -13,6 +13,7 @@ algo:: Unit 4 Outcome 2
 - a [[Design Pattern]] utilising a heuristic will produce a solution in a reasonable time frame that is good enough for solving the problem
 	- it may not be the best solution
 	- it may be an approximate of the best solution
+	- [[A* Algorithm]] being a popular example
 - heuristic functions may be the only viable option when solving complex optimization problems and are routinely used in real-world applications
 - the [[Travelling Salesman Problem]] is an example of a problem that can be solved with heuristic functions that find good solutions
 	-
