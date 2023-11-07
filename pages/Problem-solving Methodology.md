@@ -26,7 +26,6 @@ softdev:: Unit 3 Outcome 1
   classDef stage stroke-width:2,stroke:black
   ```
   *If you can't see the Mermaid diagram above, install the Fenced Code Plus plugin*
--
 - comprised of the four stages
 	- [[Analysis Stage]]
 	- [[Design Stage]]

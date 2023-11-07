@@ -111,6 +111,8 @@
 	  collapsed:: true
 		- {{query (page-property :topic "Evaluation Methods")}}
 		  query-properties:: [:page :topic]
+		  query-sort-by:: page
+		  query-sort-desc:: false
 	- [[Security Strategies]]
 	  collapsed:: true
 		- {{query (page-property :topic "Security Strategies")}}
