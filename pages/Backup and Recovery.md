@@ -1,6 +1,6 @@
 tags:: Software Development
 topic:: [[File Management]]
-softdev:: Unit 4 Outcome 2
+softdev:: Unit 4 Outcome 1
 
 -
 - important to have a backup and restore procedure in place for a software project to protect against data loss and corruption
@@ -37,4 +37,4 @@ softdev:: Unit 4 Outcome 2
 	- check that backups are correctly made regularly
 	- have a clear set of instructions for restoring systems from backup
 	- periodically run the restoration process in an environment that resembles the live one as closely as possible
-	- make sure backup media is protected from loss, damage and is stored securely
+	- make sure backup media is protected from loss, damage and is stored securelylo
