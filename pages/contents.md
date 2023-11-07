@@ -102,7 +102,6 @@
 		  query-sort-by:: page
 		  query-sort-desc:: false
 	- [[Development Techniques]]
-	  collapsed:: true
 		- {{query (page-property :topic "Development Techniques")}}
 		  query-properties:: [:page :topic]
 		  query-sort-by:: page
