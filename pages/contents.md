@@ -97,8 +97,10 @@
 		  query-sort-desc:: false
 	- [[Legislation]]
 	  collapsed:: true
-		- {{query (page-property :topic "Privacy Legislation")}}
+		- {{query (page-property :topic "Legislation")}}
 		  query-properties:: [:page :topic]
+		  query-sort-by:: page
+		  query-sort-desc:: false
 	- [[Development Techniques]]
 	  collapsed:: true
 		- {{query (page-property :topic "Development Techniques")}}
