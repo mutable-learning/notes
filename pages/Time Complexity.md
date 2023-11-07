@@ -4,6 +4,7 @@ algo:: Unit 4 Outcome 1
 
 -
 - is a measure of how long it takes an algorithm to run as a function of the size of the input
+- you can find examples of common time complexities on [[Time Complexity/Examples]]
 - Big O, Big \Theta, and Big \Omega are three notations used in computer science to describe the asymptotic behaviour of algorithms.
 	- used to classify algorithms based on their time complexity
 - Big O notation is used to describe the upper bound of an algorithm's time complexity

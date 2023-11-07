@@ -3,6 +3,7 @@ topic:: [[Time Complexity]]
 algo:: Unit 4 Outcome 1
 
 -
+- common [[time complexity]] examples are shown below
 - O(1)
 	- Constant time algorithms: These algorithms take the same amount of time to execute, regardless of the size of the input. Some examples of constant time algorithms include:
 		- Accessing an element in an array

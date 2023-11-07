@@ -7,7 +7,7 @@ algo:: Unit 3 Outcome 2
 - Traversing a tree or graph
 - Start at any node, or the root node (in a tree)
 - Explore all neighbours of a node before moving to their neighbours
-- Only difference with [[Depth-first Search]] is a [[Queue]] instead of a [[Stack]]
+- Only difference with [[Depth-first Search]] is a [[Queue]] instead of a [[Stack ADT]]
 - Steps to follow
 	- Start from root node (random for graph)
 	- Set node as seen
