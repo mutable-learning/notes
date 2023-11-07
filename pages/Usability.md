@@ -38,3 +38,4 @@ softdev:: Unit 3 Outcome 2
 	- user testing
 		- test the software with users early and often in the development process
 		- will help to identify any usability problems and make sure that the software is easy to use
+- usability of a solution is evaluated through a [[Usability Testing]] process as part of the solution's [[Testing Strategy]]
