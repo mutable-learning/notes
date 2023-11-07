@@ -1,0 +1,53 @@
+tags:: Software Development
+topic:: [[Evaluation Methods]]
+softdev:: Unit 4 Outcome 1
+
+-
+- this is not the same as testing the solution, which should have been done as part of the [[Testing Strategy]]
+- it tests how well the solution is meeting the needs of the client and the users
+- [[Problem-solving Methodology]] evaluation
+	- [[Analysis Stage]] and the [[SRS]]
+		- especially the [[Solution Requirements]] and [[Solution Constraints]]
+		- was there any [[Scope Creep]]
+	- [[Design Stage]]
+		- did the design enable the specifications to be met
+	- [[Development Stage]]
+		- was this able to translate the requirements and design into a working solution
+		- how much testing was done
+- [[Project Plan]] evaluation
+  id:: 654a0369-ea68-4daf-9d70-6ebef6fea2ab
+	- examine the documentation for [[Recording Project Progress]] and determine what parts of the plan were impacted and whether these had any impacts on the final solution
+		- delays
+		- changes
+		- resource issues
+		- [[Scope Creep]]
+		- were there any lessons that could be learned from the process
+	- summarise how well the [[Project Plan]] met the needs of the solution
+		- was it complete
+			- were any significant parts of the project missed from the original plan
+			- were annotations added to note this
+		- was it easy to maintain
+			- could progress be kept up to date
+			- could changes be made as needed
+		- was it accurate
+			- especially for task scheduling
+		- was it easy to follow
+			- did it make sense and was formatted in a readable manner
+	- document your evidence and thoughts into a report about the project
+		- explain the advantages and disadvantages of the plan
+		- detail lessons learned and changes you would make if you did it again
+		- identify further possibilities for developing the solution in the future
+- Solution Evaluation
+	- occurs after the solution has been in use for some time
+		- too early and the users haven't had time to adjust to the new solution
+		- too long and the resentment with issues may build up or any issues may become too serious
+	- use the [[Evaluation Criteria]] documented during the [[Design Stage]] that evaluate the criteria for ((6549941c-5ec6-4bfc-8218-f98e468b3528)) and  ((6549941c-7d9e-4393-b5a2-2352cdfb3fea))
+		- conduct interviews with users
+		- survey users with questions for the criteria
+		- collect system data relating to the ((6549941c-5ec6-4bfc-8218-f98e468b3528)) from logs and system monitoring
+		- make observations of the solution in use and include screenshots and recordings
+	- for each criterion in the [[Evaluation Criteria]] there must be a method of evaluating it listed and the results
+		- to what degree has the criterion been met or satisfied
+		- are the measurements subjective or objective
+-
+	-

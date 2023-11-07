@@ -4,9 +4,10 @@ softdev:: Unit 3 Outcome 2
 
 -
 - how well a solution achieves its results
-- measures the quality of the solution
+- measures the quality and accuracy of the solution
 	- can be improved often at the expense of an [[Efficient Solution]]
 - Effectiveness Measures
+  id:: 6549941c-7d9e-4393-b5a2-2352cdfb3fea
 	- Completeness
 		- complete [[Functional Requirements]] and [[Non-functional Requirements]]
 	- Readability
