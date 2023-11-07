@@ -1,0 +1,44 @@
+tags:: Software Development
+topic:: [[File Management]] 
+softdev:: Unit 4 Outcome 1
+
+-
+- when choosing storage medium for a software project there are a number of factors to consider that can affect access to data
+- common storage media are
+	- Hard Disk Drives (HDDs)
+		- cheap, big but slow
+	- Solid State Drives (SSDs)
+		- fast but smaller and more expensive than HDDs
+	- Network Attached Storage (NAS)
+		- are specialised storage devices that can be accessed over a network
+		- NAS devices can be used to store and share software project files with multiple users within the network
+	- Cloud Storage
+		- convenient and can be accessed from anywhere with an internet connection
+- Data Access and Storage Media factors
+	- Speed
+		- will determine how quickly data can be read and written
+			- SSDs are the fastest, followed by NAS devices, and then HDDs
+			- Cloud storage services can vary in speed depending on the service provider and the internet connection
+	- Latency
+		- the time it takes for the storage medium to respond to a request
+			- SSDs have the lowest latency, followed by NAS devices, and then HDDs
+			- Cloud storage services can have higher latency
+				- depending on the distance between the user and the data centre
+	- Availability
+		- the percentage of time that the storage medium is available for use
+			- SSDs and NAS devices are very reliable, while HDDs can be more prone to failure
+			- Cloud storage services are also very reliable, but they can be affected by internet outages
+	- Cost
+		- cost of storage can vary depending on the storage medium and the amount of storage space required
+			- SSDs are the most expensive, followed by NAS devices, and then HDDs
+			- Cloud storage services can also vary in cost depending on the service provider and the amount of storage space required
+				- can become expensive for large projects but can also be cheap when needs are small
+	- Security
+		- is important to consider if you are storing sensitive data
+			- SSDs and NAS devices can be encrypted to protect data from unauthorised access
+				- Cloud storage services also offer a variety of security features
+					- important to choose a service provider that has a good reputation for security
+	- Scalability
+		- the ability of the storage medium to grow with your needs
+			- SSDs and NAS devices can be scaled up by adding more storage drives
+			- Cloud storage services are also very scalable, as you can simply add more storage space as needed
