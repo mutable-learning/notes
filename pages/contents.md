@@ -48,6 +48,7 @@
 		  query-sort-desc:: false
 		  query-properties:: [:page :topic]
 	- [[Computer Science]]
+	  collapsed:: true
 		- {{query (page-property :topic "Computer Science")}}
 		  query-sort-by:: page
 		  query-sort-desc:: false
