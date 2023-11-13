@@ -14,6 +14,8 @@ algo:: Unit 4 Outcome 3
 		- there is no algorithm that can solve them
 	- it also implies that any computer program that can be written can be simulated by a Turing machine
 - Church stated that *"No computational procedure will be considered as an algorithm unless it can be represented as a Turing Machine"*
+- it does not state whether an algorithm is *feasible* or not, and this is where  [[Cobham's Thesis]] is different
+	- only that an algorithm is computable ([[Tractability]])
 -
 - Further Research
   background-color:: purple
