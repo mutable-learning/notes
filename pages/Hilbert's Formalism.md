@@ -25,7 +25,7 @@ algo:: Unit 4 Outcome 3
 	- he created the [[Halting Problem]] to prove his work
 	- there is no algorithm that can correctly determine, for any arbitrary mathematical statement, whether the statement is true or false
 - Hilbert was disappointed by Turing's proof, but it ultimately led to a deeper understanding of the limits of what computers can do through the concept of [[Decidability]]
-- brief timeline of the events leading up to the [[halting problem]]
+- brief timeline of the events leading up to the [[Halting Problem]]
 	- 1928: David Hilbert poses the Entscheidungsproblem
 	- 1931: Kurt Gödel proves that there are statements that are true but cannot be proven
 	- 1936: Alan Turing proves that the Entscheidungsproblem is undecidable

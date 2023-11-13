@@ -21,10 +21,10 @@ algo:: Unit 4 Outcome 3
 - relationship between the [[Church-Turing Thesis]] and Cobham's thesis
 	- the [[Church-Turing Thesis]] establishes a limit on what can be **computed**
 		- any [[Algorithm]] that can be executed by a human or another computing device can also be executed by a [[Turing Machine]]
-		- it does not say anything about the feasibility of computing particular problems
+		- it does not say anything about the *feasibility* of computing particular problems
 	- Cobham's thesis refines the [[Church-Turing thesis]]
-		- only problems that can be computed in polynomial time are feasible
-			- even if a problem can be solved by a [[Turing Machine]] , it may still be infeasible if it takes too long to compute the solution
+		- only problems that can be computed in polynomial time are **feasible**
+			- even if a problem can be solved by a [[Turing Machine]] , it may still be *infeasible* if it takes too long to compute the solution
 -
 - Further Research
   background-color:: purple
