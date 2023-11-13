@@ -4,7 +4,7 @@ topic:: [[Advanced Algorithm Design]]
 algo:: Unit 4 Outcome 2
 
 -
-- uses divide and conquer [[Recursion]] for sorting arrays.
+- uses [[Divide and Conquer]] [[Recursion]] for sorting arrays.
 - works by recursively partitioning the array around a Pivot element.
 - the Pivot element is then placed in its correct position in the array, and the two halves of the array are recursively sorted.
 - key aspects of the quicksort:
