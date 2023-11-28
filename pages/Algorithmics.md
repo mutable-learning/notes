@@ -1,1 +1,1 @@
-- All pages tagged with #Algorithmics
+- All pages tagged with [[Algorithmics]]

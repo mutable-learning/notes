@@ -1,5 +1,5 @@
 tags:: Algorithmics
-alias:: Change-making Problem
+alias:: Coin-Change Problem
 topic:: [[Problems]]
 algo:: Unit 4 Outcome 2
 

@@ -1,6 +1,7 @@
-tags:: Software Development
+tags:: Software Development, Applied Computing
 topic:: [[Analysis Stage]]
 softdev:: Unit 3 Outcome 2
+applied:: Unit 1 Outcome 1
 
 -
 - a crucial step in any software project
