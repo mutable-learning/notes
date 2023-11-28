@@ -1,4 +1,5 @@
 - [[Algorithmics]]
+  collapsed:: true
 	- [[Abstract Data Types]]
 	  collapsed:: true
 		- {{query (page-property :topic "Abstract Data Types")}}
@@ -66,13 +67,48 @@
 		  query-sort-by:: page
 		  query-sort-desc:: false
 		  query-properties:: [:page :topic]
+- [[Applied Computing]]
+  collapsed:: true
+	- [[Data Collection]]
+	  collapsed:: true
+		- {{query (page-property :topic [[Data Collection]])}}
+		  query-properties:: [:page]
+	- [[Data Analysis]]
+	  collapsed:: true
+		- {{query (page-property :topic [[Data Analysis]])}}
+		  query-properties:: [:page]
+	- [[Analysing Problems]]
+	  collapsed:: true
+		- {{query (page-property :topic [[Analysing Problems]])}}
+		  query-properties:: [:page]
+	- [[Developing Solutions]]
+	  collapsed:: true
+		- {{query (page-property :topic [[Developing Solutions]])}}
+		  query-properties:: [:page]
+	- [[Innovative Solution]]
+	  collapsed:: true
+		- {{query (page-property :topic [[Innovative Solution]])}}
+		  query-properties:: [:page]
+	- [[Networks]]
+	  collapsed:: true
+		- {{query (page-property :topic [[Networks]])}}
+		  query-properties:: [:page]
+	- [[Security Threats]]
+	  collapsed:: true
+		- {{query (page-property :topic [[Security Threats]])}}
+		  query-properties:: [:page]
+	- [[Protecting Data and Networks]]
+	  collapsed:: true
+		- {{query (page-property :topic [[Protecting Data and Networks]])}}
+		  query-properties:: [:page]
 - [[Software Development]]
+  collapsed:: true
 	- [[Problem-solving Approach]]
 	  collapsed:: true
-		- {{query (page-property :topic "Problem-solving Approach")}}
-		  query-properties:: [:page :topic]
+		- {{query (page-property :topic [[Problem-solving Approach]])}}
 		  query-sort-by:: page
 		  query-sort-desc:: false
+		  query-properties:: [:page :topic]
 	- [[Programming Concepts]]
 	  collapsed:: true
 		- {{query (page-property :topic "Programming Concepts")}}

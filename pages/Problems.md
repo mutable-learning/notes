@@ -4,7 +4,7 @@ topic:: Problems
 -
 - Core Problems
 	- [[Fibonacci Numbers]]
-	- [[Coin Change Problem]]
+	- [[Change-Making Problem]]
 	- [[Travelling Salesman Problem]]
 	- [[Knapsack Problem]]
 	- [[Graph Coloring]]

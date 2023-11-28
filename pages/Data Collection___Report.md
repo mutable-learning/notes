@@ -1,6 +1,7 @@
-tags:: Software Development
+tags:: Software Development, Applied Computing
 topic:: [[Data Collection]]
 softdev:: Unit 3 Outcome 2
+applied:: Unit 1 Outcome 1
 
 -
 - usually a written document summarizing the information about the system being analysed
