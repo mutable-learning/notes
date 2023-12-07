@@ -102,7 +102,6 @@
 		- {{query (page-property :topic [[Protecting Data and Networks]])}}
 		  query-properties:: [:page]
 - [[Software Development]]
-  collapsed:: true
 	- [[Problem-solving Approach]]
 	  collapsed:: true
 		- {{query (page-property :topic [[Problem-solving Approach]])}}
@@ -150,7 +149,6 @@
 		  query-sort-by:: page
 		  query-sort-desc:: false
 	- [[Security Strategies]]
-	  collapsed:: true
 		- {{query (page-property :topic "Security Strategies")}}
 		  query-properties:: [:page :topic]
 	- [[Risk Management]]
