@@ -5,7 +5,7 @@ softdev:: Unit 4 Outcome 2
 -
 - [[Software Auditing and Testing]] to reduce the risk of impact of any issues and reduce the possibility of issues arising
 - managing the risk of [[Third Party Software]]
-- practices aimed at [[Minimising Security Vulnerabilities]] when developing software
+- practices aimed at [[Minimising Security Vulnerabilities]] when developing software and using systems
 - ensuring any data used maintains [[Data Integrity]] and the impacts of ineffective strategies to protect data
 - develop criteria for evaluating the effectiveness of software development [[Security Strategies/Evaluation Criteria]]
 - what makes up a [[Risk Management Plan]]

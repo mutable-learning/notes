@@ -3,4 +3,56 @@ topic:: [[Security Strategies]]
 softdev:: Unit 4 Outcome 2
 
 -
--
+- secure systems ensure that confidentiality, integrity and availability are maintained
+- Threats to Data Integrity
+	- Accidental
+		- users accidentally damage systems
+			- poor interfaces
+			- lack of training
+		- inappropriate permissions
+		- user inattention or carelessness
+		- modifications of data are too easy to make
+	- Event-based
+		- hardware failure, such as storage
+		- power failure
+		- file corruption
+		- third-party software issues
+		- acts of nature such as fire, floods or a lightning strike
+	- Deliberate
+		- an attack is made on the system or data through [[Malware]], [[Social Engineering]] or other [[Security Vulnerabilities]]
+- Characteristics of Data Integrity
+	- Accuracy
+		- Content
+			- Correctness
+				- data is entered correctly, such as correct birthdate, name spellings
+			- Completeness
+				- the entire data set is intact
+		- Form
+			- Clarity
+				- data is formatted to avoid misinterpretation
+				- using ISO date formats, for example
+			- Consistency
+				- data within a system and the same data stored in multiple systems is consistent
+				- if not consistent, which data is 'accurate'?
+	- Authenticity
+		- comes from the source it is known to be from
+		- has not been corrupted or changed
+		- is not faked or disguised as something else
+	- Reasonableness
+		- the data meaning is consistent with the values
+		- meaning is determined by understanding the acceptable extent of the data
+			- dates are within a range
+			- ages are consistent
+			- possibility of data occurring, such as playing so many games within a time period
+	- Relevance
+		- data is appropriate for the use it is being applied
+	- Timeliness
+		- data must be processed while it is current
+		- processing must complete before the data is actually needed
+			- a machine alerts that the patient's heartbeat has stopped five minutes after it actually stopped
+- Failure to protect Data Integrity
+	- can result in prosecution and/or penalties
+	- loss of business and reputation
+	- normal business can be seriously disrupted
+	- trade secrets can be stolen and sensitive information, such as encryption keys, may be stolen
+	- business severely impacted may no longer be able to operate
