@@ -16,3 +16,10 @@ softdev:: Unit 4 Outcome 2
 	- redirects users to imitation websites to harvest their credentials. Especially powerful when combined with ((657114ff-8a54-458f-b1d9-60e0356d5798))
 - Tailgating or Piggybacking
 	- gaining physical access by following someone else closely, such as as through a locked door
+- **Protecting against Social Engineering attacks**
+	- train all users to recognise attacks and indications of attacks regularly
+	- have processes for reporting incidents and responses ready
+	- use antivirus software and keep it up to date
+	- use [[User Authorisation]] to restrict access to systems
+	- restrict downloading and installing software on systems
+	- use multi-factor [[User Authentication]]
