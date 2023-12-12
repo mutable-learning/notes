@@ -15,7 +15,7 @@ softdev:: Unit 4 Outcome 2
 - managing the risk of [[Third Party Software]]
 - practices aimed at [[Minimising Security Vulnerabilities]] when developing software and using systems
 - ensuring any data used maintains [[Data Integrity]] and the impacts of ineffective strategies to protect data
-- develop criteria for evaluating the effectiveness of software development [[Security Strategies/Evaluation Criteria]]
+- ((6578dcd1-8d2c-4c29-958e-361919ecb957))
 - what makes up a [[Risk Management Plan]]
 -
 - Further Research
