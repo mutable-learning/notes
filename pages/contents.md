@@ -153,6 +153,7 @@
 		- {{query (page-property :topic "Security Strategies")}}
 		  query-properties:: [:page :topic]
 	- [[Risk Management]]
+	  collapsed:: true
 		- {{query (page-property :topic "Risk Management")}}
 		  query-properties:: [:page :topic]
 	- [[Ethical and Legal Considerations]]
