@@ -11,7 +11,7 @@ algo:: Unit 4 Outcome 3
 	- $O(n \log n)$
 	- $O(n^2)$
 - Intractable problems are problems that cannot be solved in a reasonable amount of [time]([[Time Complexity]]) and [space]([[Space Complexity]])
-- Intractable problems have a [[time complexity]] of one of
+- Intractable problems have a [[Time Complexity]] of one of
 	- $O(2^n)$
 	- $O(n!)$
 	- $O(n^n)$

@@ -30,7 +30,7 @@ algo:: Unit 4 Outcome 1
 			- is the term that grows the fastest as the size of the input grows
 		- for example, the dominant term in the [[Time Complexity]] of bubble sort is $n^2$
 			- the number of comparisons grows quadratically as the size of the input grows
-	- Use Big $O$ notation to express the [[time complexity]]
+	- Use Big $O$ notation to express the [[Time Complexity]]
 		- use Big $O$ notation to express the time complexity of the algorithm
 		- for example, the time complexity of bubble sort is $O(n^2)$
 - Here are some additional tips for determining time complexity of iterative algorithms:

@@ -11,7 +11,7 @@ softdev:: Unit 3 Outcome 1
       A --- D[Development]:::stage
       A --- E[Evaluation]:::stage
       B -- Activities --- B1[Solution requirements]:::activity
-      B1 ---  B2[Solution Consraints]:::activity
+      B1 ---  B2[Solution Constraints]:::activity
       B2 ---  B3[Solution Scope]:::activity
       C --Activities --- C1[Solution Design]:::activity
       C1 ---  C2[Evaluation Criteria]:::activity
@@ -26,7 +26,7 @@ softdev:: Unit 3 Outcome 1
   classDef stage stroke-width:2,stroke:black
   ```
   *If you can't see the Mermaid diagram above, install the Fenced Code Plus plugin*
-- comprised of the four stages #flashcard
+- comprised of the four stages
   id:: 654590cc-608d-4d99-9fcc-95aa09fc9fe8
 	- [[Analysis Stage]]
 	- [[Design Stage]]

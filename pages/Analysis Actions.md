@@ -5,10 +5,12 @@ softdev:: Unit 3 Outcome 2
 -
 - detail the problem or need as part of the [[Analysis Stage]] of the [[Problem-solving Methodology]]
 - examine how [[Organisational and System Goals]] along with [[Organisational and System Objectives]] impact a solution
-- recognize the importance of creating a [[Software Requirement Specification]]
 - examine different tools to enable [[Data Collection]]
-- decide what will be and won't be a part of the [[Solution Scope]]
-- understand the difference between [[Functional Requirements]] and [[Non-functional Requirements]] that will make up the [[Solution Requirements]]
+- create a [[Design Brief]]
+- recognize the importance of creating a [[Software Requirement Specification]]
+	- decide what will be and won't be a part of the [[Solution Scope]]
+	- understand the difference between [[Functional Requirements]] and [[Non-functional Requirements]] that will make up the [[Solution Requirements]]
+	- analyse the requirements and scope to determine any impacts or needs imposed by [[Solution Constraints]]
 - depict interfaces between solutions, users and networks using tools such as a [[Use Case Diagram]], a [[Data Flow Diagram]] and a [[Context Diagram]]
 - select a [[Development Model]] from choices including the [[Waterfall Model]], [[Agile Model]] and [[Spiral Model]]
 -

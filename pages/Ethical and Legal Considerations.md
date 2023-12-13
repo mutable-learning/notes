@@ -4,6 +4,8 @@ softdev:: Unit 4 Outcome 2
 
 -
 - why do individuals and organisations develop software and the idea of [[Ethical Software Development]]
+	- software may not be available for purchase or may need customisation
+	- custom software is needed to meet the [[Organisational and System Goals]] and the [[Organisational and System Objectives]] of an organisation
 - considerations about [[Ethical Software Use]] after a solution has been created
 - impacts of the legislation that affects the collection, storage and communication of data
 	- [[Copyright Act 1968]]

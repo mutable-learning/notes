@@ -37,4 +37,7 @@ softdev:: Unit 4 Outcome 1
 	- check that backups are correctly made regularly
 	- have a clear set of instructions for restoring systems from backup
 	- periodically run the restoration process in an environment that resembles the live one as closely as possible
-	- make sure backup media is protected from loss, damage and is stored securelylo
+	- make sure backup media is protected from loss, damage and is stored securely
+- consider carefully where backups are stored
+	- impacts on the recovery process
+	- resistance to ((65718797-21ee-420b-b49d-befd0c9e975f))
