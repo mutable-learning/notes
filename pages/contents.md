@@ -102,6 +102,7 @@
 		- {{query (page-property :topic [[Protecting Data and Networks]])}}
 		  query-properties:: [:page]
 - [[Software Development]]
+  collapsed:: true
 	- [[Problem-solving Approach]]
 	  collapsed:: true
 		- {{query (page-property :topic [[Problem-solving Approach]])}}
